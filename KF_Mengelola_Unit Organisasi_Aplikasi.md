@@ -2,7 +2,7 @@
 
 **Role yang sesuai**
 
- - IT Admin
+- IT Admin
 
 IT Admin dapat mengelola unit organisasi pada aplikasi eCorr yang sudah didaftarkan di idProo. Informasi yang ditampilkan yaitu nama unit organisasi. Pengelolaan unit organisasi yang dilakukan oleh admin eCorr antara lain yaitu:
 
@@ -10,7 +10,7 @@ IT Admin dapat mengelola unit organisasi pada aplikasi eCorr yang sudah didaftar
 - Mencari daftar unit organisasi pada aplikasi
 
 
-#### *Melihat Daftar Unit Organisasi pada Aplikasi*
+#### **Melihat Daftar Unit Organisasi pada Aplikasi**
 
 
 1. Pilih menu **Configuration** dan pilih submenu **Syncronization - Organization**
@@ -24,7 +24,7 @@ IT Admin dapat mengelola unit organisasi pada aplikasi eCorr yang sudah didaftar
 3. Sistem menampilkan unit organisasi dalam bentuk hirarki
 
 
-#### *Mencari Unit Organisasi pada Aplikasi*
+#### **Mencari Unit Organisasi pada Aplikasi**
 
 1. Pilih menu **Configuration** dan pilih submenu **Syncronization - Organization**
 

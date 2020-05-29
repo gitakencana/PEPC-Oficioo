@@ -10,7 +10,7 @@ IT Admin dapat mengelola jabatan pada aplikasi eCorr yang sudah didaftarkan pada
 - Mencari daftar jabatan pada aplikasi
 
 
-##### *Melihat Daftar Jabatan pada Aplikasi*
+#### **Melihat Daftar Jabatan pada Aplikasi**
 
 1.    Pilih menu **Configuration** dan pilih submenu **Syncronization - Position**
 
@@ -19,9 +19,9 @@ IT Admin dapat mengelola jabatan pada aplikasi eCorr yang sudah didaftarkan pada
 2.    Sistem menampilkan daftar user pada aplikasi eCorr
 
 
-##### *Mencari Jabatan pada Aplikasi*
+#### **Mencari Jabatan pada Aplikasi**
 
-1.    Pilih menu **Configuration **dan pilih submenu **Syncronization - Position**
+1.    Pilih menu **Configuration** dan pilih submenu **Syncronization - Position**
 
 ![gambar](SC_Konfigurasi/KF12.png)
 

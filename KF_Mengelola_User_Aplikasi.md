@@ -1,4 +1,4 @@
-### 3.2.3.3. **Mengelola User pada Aplikasi**
+###  **Mengelola User pada Aplikasi**
 
 **Role yang sesuai**
 
@@ -14,7 +14,7 @@ IT Admin dapat mengelola user pada aplikasi eCorr yang sudah didaftarkan pada si
 
 <!--H6 not demoted to H7. -->
 
-#####  *Melihat Daftar User pada Aplikasi*
+####  **Melihat Daftar User pada Aplikasi**
 
 1. Pilih menu **Configuration** dan pilih submenu **Syncronization - Users**
 
@@ -23,7 +23,7 @@ IT Admin dapat mengelola user pada aplikasi eCorr yang sudah didaftarkan pada si
 2. Sistem menampilkan daftar user pada aplikasi eCorr
 
 
-##### *Mencari User pada Aplikasi*
+#### **Mencari User pada Aplikasi**
 
 1. Pilih menu **Configuration** dan pilih submenu **Syncronization - Users**
 

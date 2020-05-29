@@ -2,9 +2,9 @@
 
 **Role yang sesuai**
 
- - IT Admin
+- IT Admin
 
-Admin eCorr dapat mengelola pemindahan / move dokumen pada unit kerja satu ke unit kerja yang lain. Hal ini bertujuan jika unit kerja yang mengalami perubahan dan dokumen di unit kerja lama akan dipindahkan ke unit kerja yang baru. Pengelolaan pemindahan  dokumen yang dilakukan oleh admin eCorr antara lain yaitu:
+IT Admin dapat mengelola pemindahan / move dokumen pada unit kerja satu ke unit kerja yang lain. Hal ini bertujuan jika unit kerja yang mengalami perubahan dan dokumen di unit kerja lama akan dipindahkan ke unit kerja yang baru. Pengelolaan pemindahan  dokumen yang dilakukan oleh admin eCorr antara lain yaitu:
 
 - Melihat daftar dokumen
 - Mencari dokumen
@@ -12,7 +12,7 @@ Admin eCorr dapat mengelola pemindahan / move dokumen pada unit kerja satu ke un
 - Melakukan pemindahan dokumen ke unit kerja lain
 
 
-##### *Melihat Daftar Dokumen*
+#### **Melihat Daftar Dokumen**
 
 
 1.    Pilih menu **Configuration** dan pilih submenu **Move Document – Document**
@@ -22,7 +22,7 @@ Admin eCorr dapat mengelola pemindahan / move dokumen pada unit kerja satu ke un
 2.    Sistem menampilkan daftar dokumen pada halaman **Move Document**
 
 
-#####  *Mencari Dokumen*
+#### **Mencari Dokumen**
 
 1.    Pilih menu **Configuration** dan pilih submenu **Move Document - Document**
 
@@ -35,37 +35,37 @@ Admin eCorr dapat mengelola pemindahan / move dokumen pada unit kerja satu ke un
 3.    Sistem menampilkan hasil pencarian berdasarkan kata kunci
 
 
-##### *Melihat Informasi Dokumen*
+#### **Melihat Informasi Dokumen**
 
-1.	Pilih menu **Configuration** dan pilih submenu **Move Document – Document**. Pilih salah satu dokumen yang akan dilihat informasinya
+1.   Pilih menu **Configuration** dan pilih submenu **Move Document – Document**. Pilih salah satu dokumen yang akan dilihat informasinya
 
 ![gambar](SC_Konfigurasi/KF17.png)
 
-###### Preview Surat
+##### Preview Surat
 
 1. Pada tab **Preview**, ditampilkan _preview_ surat yang sudah dibuat. Preview surat disesuaikan dengan template berdasarkan jenis surat.
 
 ![gambar](SC_Konfigurasi/KF18.png)
 
-###### Detail Surat
+##### Detail Surat
 
 1. Pada tab **Detail**, terdapat informasi asal surat, perihal, file lampiran, kategori surat, resume, rekomendasi, nomor surat, klasifikasi surat, tanggal surat dan tujuan
 
 ![gambar](SC_Konfigurasi/KF19.png)
 
-###### Tracking Surat
+##### Tracking Surat
 
 1. Pada tab **Tracking**, ditampilkan informasi _tracking_ surat dalam bentuk c_hart_
 
 ![gambar](SC_Konfigurasi/KF20.png)
 
-###### History Surat
+##### History Surat
 
-1. Pada tab **History Surat**, ditampilkan riwayat surat masuk yang terdapat informasi jabatan, tanggal, tindakan dan komentar
+1. Pada tab **History**, ditampilkan riwayat surat masuk yang terdapat informasi jabatan, tanggal, tindakan dan komentar
 
 ![gambar](SC_Konfigurasi/KF21.png)
 
-##### *Melakukan Pemindahan Dokumen ke Unit Kerja Lain*
+#### **Melakukan Pemindahan Dokumen ke Unit Kerja Lain**
 
 1.    Pilih menu **Configuration** dan pilih submenu **Move Document – Document**
 
@@ -75,11 +75,11 @@ Admin eCorr dapat mengelola pemindahan / move dokumen pada unit kerja satu ke un
 
 ![gambar](SC_Konfigurasi/KF23.png)
 
-3.    Sistem menampilkan *pop up* **Move Document**
+3.    Sistem menampilkan _pop up_ **Move Document**
 
 ![gambar](SC_Konfigurasi/KF24.png)
 
-4.    Pilih jabatan lama dimana dokumen berasal pada *field* **Jabatan Lama.** Pilih jabatan baru pada *field* **Jabatan Baru** untuk memilih tujuan dokumen yang akan dipindahkan
+4.    Pilih jabatan lama dimana dokumen berasal pada _field_ **Jabatan Lama.** Pilih jabatan baru pada *field* **Jabatan Baru** untuk memilih tujuan dokumen yang akan dipindahkan
 
 ![gambar](SC_Konfigurasi/KF25.png)
 

@@ -5,7 +5,7 @@
 - IT Admin
 
 
- IT Admin dapat mengelola notifikasi email yang dikirimkan kepada pengirim. Langkah – langkah untuk mengirimkan notifikasi email terkait perubahan aplikasi adalah sebagai berikut:
+IT Admin dapat mengelola notifikasi email yang dikirimkan kepada pengirim. Langkah – langkah untuk mengirimkan notifikasi email terkait perubahan aplikasi adalah sebagai berikut:
 
 
 1. Pilih menu **Configuration** dan pilih submenu **Information – System**
