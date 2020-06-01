@@ -12,7 +12,6 @@ IT Admin dapat mengelola user pada aplikasi eCorr yang sudah didaftarkan pada si
 - Melihat daftar user pada aplikasi
 - Mencari daftar user pada aplikasi
 
-<!--H6 not demoted to H7. -->
 
 ####  **Melihat Daftar User pada Aplikasi**
 
