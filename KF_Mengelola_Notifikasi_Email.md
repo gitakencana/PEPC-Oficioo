@@ -1,14 +1,14 @@
-### 3.2.3.2. Mengelola Notifikasi Email
+### Mengelola Notifikasi Email
 
 **Role yang sesuai**
 
 - IT Admin
 
 
-IT Admin dapat mengelola notifikasi email yang dikirimkan kepada pengirim. Langkah – langkah untuk mengirimkan notifikasi email terkait perubahan aplikasi adalah sebagai berikut:
+IT Admin dapat mengelola notifikasi email yang dikirimkan kepada pengirim. Langkah–langkah untuk mengirimkan notifikasi email terkait perubahan aplikasi adalah sebagai berikut:
 
 
-1. Pilih menu **Configuration** dan pilih submenu **Information – System**
+1. Pilih menu **Configuration** dan pilih submenu **Information–System**
 
 ![gambar](SC_Konfigurasi/KF02.png)
 
