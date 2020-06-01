@@ -47,7 +47,7 @@ _User_ dapat melihat daftar dokumen masuk yang mencatatkan seluruh dokumen yang 
 - Sekretaris
 - Pemilik KBO
 
-*User* dapat melihat daftar dokumen keluar yang mencatatkan seluruh dokumen yang didisposisikan kepada jabatan atasan sekretaris. Langkah – langkah untuk melihat daftar dokumen disposisi adalah sebagai berikut
+*User* dapat melihat daftar dokumen keluar yang mencatatkan seluruh dokumen yang didisposisikan kepada jabatan atasan sekretaris. Langkah - langkah untuk melihat daftar dokumen disposisi adalah sebagai berikut
 
 1. Klik menu **Document Control** dan pilih submenu **Dokumen Disposisi**
 
@@ -221,7 +221,7 @@ Admin eCorr dapat melakukan tindak lanjut terhadap permintaan nomor offline deng
 
     ![alt_text](images/Untitled-document23.png "image_tooltip")
 
-3. Sistem berhasil menyimpan perubahan dan nomor offline yang ditolak akan tampil di menu “**Document Control - List Approval Request**” dengan status **Rejected** pada role admin eCorr. Sedangkan untuk role sekretaris tersimpan di menu “**Document Control – Request Offline Number**” dengan status **Rejected**
+3. Sistem berhasil menyimpan perubahan dan nomor offline yang ditolak akan tampil di menu “**Document Control - List Approval Request**” dengan status **Rejected** pada role admin eCorr. Sedangkan untuk role sekretaris tersimpan di menu “**Document Control - Request Offline Number**” dengan status **Rejected**
 
 
 

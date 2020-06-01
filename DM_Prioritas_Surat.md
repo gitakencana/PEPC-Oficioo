@@ -11,7 +11,7 @@ Admin eCorr dapat mengelola prioritas surat yang digunakan dalam penginputan for
 - Mengubah prioritas surat
 - Menghapus prioritas surat
 
-Langkah – langkah untuk pengelolaan prioritas surat adalah sebagai berikut:
+Langkah - langkah untuk pengelolaan prioritas surat adalah sebagai berikut:
 
 #### **Mencari Prioritas Surat**
 

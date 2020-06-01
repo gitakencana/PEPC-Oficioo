@@ -11,7 +11,7 @@ Admin eCorr dapat mengelola kode simpan yang digunakan dalam penginputan form su
 - Mengubah kode simpan
 - Menghapus kode simpan
 
-Langkah – langkah untuk pengelolaan kode simpan adalah sebagai berikut
+Langkah - langkah untuk pengelolaan kode simpan adalah sebagai berikut
 
 #### **Mencari Kode Simpan**
 

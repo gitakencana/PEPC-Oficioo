@@ -9,7 +9,7 @@ Admin eCorr dapat mengelola grup akses untuk pemberian kewenangan pada setiap ro
 - Mencari grup akses
 - Menambah grup akses untuk setiap role
 
-Langkah – langkah untuk pengelolaan grup akses adalah sebagai berikut:
+Langkah - langkah untuk pengelolaan grup akses adalah sebagai berikut:
 
 ##### **Mencari Menu Akses**
 

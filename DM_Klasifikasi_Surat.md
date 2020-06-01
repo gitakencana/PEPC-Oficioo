@@ -11,7 +11,7 @@ Admin eCorr dapat mengelola klasifikasi surat yang digunakan dalam penginputan f
 - Mengubah klasifikasi surat
 - Menghapus klasifikasi surat
 
-Langkah – langkah untuk pengelolaan klasifikasi surat adalah sebagai berikut:
+Langkah - langkah untuk pengelolaan klasifikasi surat adalah sebagai berikut:
 
 #### **Mencari Klasifikasi surat**
 

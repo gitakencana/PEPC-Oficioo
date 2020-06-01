@@ -14,7 +14,7 @@
 
 - Menghapus _task list_ SP3S
 
-Langkah – langkah untuk pengelolaan _task list_ SP3S adalah sebagai berikut:
+Langkah - langkah untuk pengelolaan _task list_ SP3S adalah sebagai berikut:
 
 
 #### **Mencari Task List SP3S**

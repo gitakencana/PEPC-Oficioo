@@ -15,7 +15,7 @@ IT Admin dapat mengelola pemindahan / move dokumen pada unit kerja satu ke unit 
 #### **Melihat Daftar Dokumen**
 
 
-1.    Pilih menu **Configuration** dan pilih submenu **Move Document – Document**
+1.    Pilih menu **Configuration** dan pilih submenu **Move Document - Document**
 
 ![gambar](SC_Konfigurasi/KF14.png)
 
@@ -37,7 +37,7 @@ IT Admin dapat mengelola pemindahan / move dokumen pada unit kerja satu ke unit 
 
 #### **Melihat Informasi Dokumen**
 
-1.   Pilih menu **Configuration** dan pilih submenu **Move Document – Document**. Pilih salah satu dokumen yang akan dilihat informasinya
+1.   Pilih menu **Configuration** dan pilih submenu **Move Document - Document**. Pilih salah satu dokumen yang akan dilihat informasinya
 
 ![gambar](SC_Konfigurasi/KF17.png)
 
@@ -55,7 +55,7 @@ IT Admin dapat mengelola pemindahan / move dokumen pada unit kerja satu ke unit 
 
 ##### Tracking Surat
 
-1. Pada tab **Tracking**, ditampilkan informasi _tracking_ surat dalam bentuk c_hart_
+1. Pada tab **Tracking**, ditampilkan informasi _tracking_ surat dalam bentuk _chart_
 
 ![gambar](SC_Konfigurasi/KF20.png)
 
@@ -67,7 +67,7 @@ IT Admin dapat mengelola pemindahan / move dokumen pada unit kerja satu ke unit 
 
 #### **Melakukan Pemindahan Dokumen ke Unit Kerja Lain**
 
-1.    Pilih menu **Configuration** dan pilih submenu **Move Document – Document**
+1.    Pilih menu **Configuration** dan pilih submenu **Move Document - Document**
 
 ![gambar](SC_Konfigurasi/KF22.png)
 

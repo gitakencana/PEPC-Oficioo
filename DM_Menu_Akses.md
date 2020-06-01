@@ -11,7 +11,7 @@ Admin eCorr dapat mengelola akses menu yang digunakan dalam dalam pemberian hak 
 - Mengubah akses menu
 - Menghapus akses menu
 
-Langkah – langkah untuk pengelolaan akses menu adalah sebagai berikut:
+Langkah - langkah untuk pengelolaan akses menu adalah sebagai berikut:
 
 ##### **Mencari Menu Akses**
 

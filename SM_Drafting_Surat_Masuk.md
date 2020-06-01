@@ -18,6 +18,6 @@ _User_ dapat melakukan _drafting_ surat masuk pada aplikasi eCorr. _Drafting_ su
 
 ![gambar](SC_SuratMasuk/SM08.png)
 
-4.	  Lakukan perubahan pada _form_. Klik **Send** untuk mengirim surat masuk ke pejabat tujuan. Surat yang terkirim akan tersimpan di menu “**Outbox – Surat Masuk”**
+4.	  Lakukan perubahan pada _form_. Klik **Send** untuk mengirim surat masuk ke pejabat tujuan. Surat yang terkirim akan tersimpan di menu “**Outbox - Surat Masuk”**
 
 ![gambar](SC_SuratMasuk/SM09.png)

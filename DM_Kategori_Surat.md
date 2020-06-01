@@ -11,7 +11,7 @@ Admin eCorr dapat mengelola kategori surat yang digunakan dalam penginputan form
 - Mengubah kategori surat
 - Menghapus kategori surat
 
-Langkah – langkah untuk pengelolaan kategori surat adalah sebagai berikut:
+Langkah - langkah untuk pengelolaan kategori surat adalah sebagai berikut:
 
 
 #### **Mencari Kategori Surat**
