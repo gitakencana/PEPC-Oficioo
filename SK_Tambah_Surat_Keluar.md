@@ -1,4 +1,4 @@
-### 3.2.3.2. Menambah Surat Keluar
+### Menambah Surat Keluar
 
 **Ditujukan kepada**
 
