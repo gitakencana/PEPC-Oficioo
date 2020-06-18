@@ -15,7 +15,7 @@ Konseptor dapat menambah memorandum pada aplikasi eCorr. Langkah - langkah untuk
 
 ![gambar](SC_Memorandum/MM02.png)
 
-2. Pilih jenis surat **“Memorandum”**
+2. Pilih jenis surat **“Memorandum”;**
 
 ![gambar](SC_Memorandum/MM03.png)
 
