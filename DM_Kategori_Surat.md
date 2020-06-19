@@ -42,7 +42,7 @@ Langkah - langkah untuk pengelolaan kategori surat adalah sebagai berikut:
 
 
 
-##### **Mengubah Kategori Surat**
+#### **Mengubah Kategori Surat**
 
 1.    Pilih menu **Master** dan pilih submenu **Mail Categories**
 
@@ -63,7 +63,7 @@ Langkah - langkah untuk pengelolaan kategori surat adalah sebagai berikut:
 5.    Sistem menyimpan perubahan dan data akan muncul di halaman daftar kategori surat
 
 
-##### **Menghapus Kategori Surat**
+#### **Menghapus Kategori Surat**
 
 1.    Pilih menu **Master** dan pilih submenu **Mail Categories**
 

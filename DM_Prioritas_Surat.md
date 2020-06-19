@@ -61,7 +61,7 @@ Langkah - langkah untuk pengelolaan prioritas surat adalah sebagai berikut:
 5.    Sistem menyimpan perubahan dan data akan muncul di halaman daftar prioritas surat
 
 
-###### **Menghapus Prioritas Surat**
+#### **Menghapus Prioritas Surat**
 
 1.    Pilih menu **Master** dan pilih submenu **Mail Priority**
 

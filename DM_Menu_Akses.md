@@ -13,7 +13,7 @@ Admin eCorr dapat mengelola akses menu yang digunakan dalam dalam pemberian hak 
 
 Langkah - langkah untuk pengelolaan akses menu adalah sebagai berikut:
 
-##### **Mencari Menu Akses**
+#### **Mencari Menu Akses**
 
 1.    Pilih menu **Master** dan pilih submenu **Access Menus**
 
@@ -23,7 +23,7 @@ Langkah - langkah untuk pengelolaan akses menu adalah sebagai berikut:
 
 ![gambar](SC_DataMaster/DM02.png)
 
-##### **Menambah Menu Akses**
+#### **Menambah Menu Akses**
 
 1.    Pilih menu **Master** dan pilih submenu **Access Menus**
 
@@ -39,7 +39,7 @@ Langkah - langkah untuk pengelolaan akses menu adalah sebagai berikut:
 
 4.    Sistem menyimpan perubahan dan data akan muncul di halaman daftar menu akses
 
-##### **Mengubah Menu Akses**
+#### **Mengubah Menu Akses**
 
 1.    Pilih menu **Master** dan pilih submenu **Access Menus**
 
@@ -60,7 +60,7 @@ Langkah - langkah untuk pengelolaan akses menu adalah sebagai berikut:
 5.    Sistem menyimpan perubahan dan data akan muncul di halaman daftar kategori surat
 
 
-##### **Menghapus Menu Akses**
+#### **Menghapus Menu Akses**
 
 1.    Pilih menu **Master** dan pilih submenu **Access Menus**
 

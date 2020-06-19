@@ -1,4 +1,4 @@
-#### **Mengelola Menu Grup Akses**
+### **Mengelola Menu Grup Akses**
 
 **Role yang sesuai**
 
@@ -11,7 +11,7 @@ Admin eCorr dapat mengelola grup akses untuk pemberian kewenangan pada setiap ro
 
 Langkah - langkah untuk pengelolaan grup akses adalah sebagai berikut:
 
-##### **Mencari Menu Akses**
+#### **Mencari Menu Akses**
 
 1.    Pilih menu **Master** dan pilih submenu **Group Access**
 
@@ -22,7 +22,7 @@ Langkah - langkah untuk pengelolaan grup akses adalah sebagai berikut:
 ![gambar](SC_DataMaster/DM15.png)
 
 
-##### **Menambah Grup Akses untuk Setiap Role**
+#### **Menambah Grup Akses untuk Setiap Role**
 
 1.    Pilih menu **Master** dan pilih submenu **Access Menus**
 

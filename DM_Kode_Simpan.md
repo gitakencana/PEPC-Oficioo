@@ -40,7 +40,7 @@ Langkah - langkah untuk pengelolaan kode simpan adalah sebagai berikut
 4.    Sistem menyimpan perubahan dan data akan muncul di halaman daftar kode simpan
 
 
-##### **Mengubah Kode Simpan**
+#### **Mengubah Kode Simpan**
 
 1.    Pilih menu **Master** dan pilih submenu **Mail Code**
 
@@ -61,7 +61,7 @@ Langkah - langkah untuk pengelolaan kode simpan adalah sebagai berikut
 5.	  Sistem menyimpan perubahan dan data akan muncul di halaman daftar kode simpan
 
 
-#####  **Menghapus Kode Simpan**
+####  **Menghapus Kode Simpan**
 
 1.    Pilih menu **Master** dan pilih submenu **Mail Code**
 

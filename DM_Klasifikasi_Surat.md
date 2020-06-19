@@ -61,7 +61,7 @@ Langkah - langkah untuk pengelolaan klasifikasi surat adalah sebagai berikut:
 5.    Sistem menyimpan perubahan dan data akan muncul di halaman daftar klasifikasi surat
  
 
-###### **Menghapus Klasifikasi Surat**
+#### **Menghapus Klasifikasi Surat**
 
 1.    Pilih menu **Master** dan pilih submenu **Mail Classification**
 
