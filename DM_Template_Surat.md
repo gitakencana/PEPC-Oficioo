@@ -10,7 +10,7 @@ Admin eCorr dapat mengelola _template _surat yang digunakan dalam proses _genera
 - Menambah _template_ surat
 - Mengubah _template_ surat
 - Menghapus _template_ surat
-- Mengunduh_ template_ surat
+- Mengunduh _template_ surat
 
 Langkah - langkah untuk pengelolaan _template_ surat adalah sebagai berikut:
 
