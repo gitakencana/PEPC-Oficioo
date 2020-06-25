@@ -18,8 +18,8 @@ Hal-hal yang dapat dilakukan oleh IT Admin dalam mengelola data master antara la
 - [Mengelola Prioritas Surat](https://docs.oficioo.id/Categories/2d9c11da-9ad0-4b75-8369-74049c55dac7/pepc_it_admin#!/Posts/2d9c11da-9ad0-4b75-8369-74049c55dac7/data%20master/092a402a89054940bbf9c4217d68704d)
 - [Mengelola Kategori Surat](https://docs.oficioo.id/Categories/2d9c11da-9ad0-4b75-8369-74049c55dac7/pepc_it_admin#!/Posts/2d9c11da-9ad0-4b75-8369-74049c55dac7/data%20master/62473478ef13411dbb8515f87a74ab7f)
 - [Mengelola Task List SP3S](https://docs.oficioo.id/Categories/2d9c11da-9ad0-4b75-8369-74049c55dac7/pepc_it_admin#!/Posts/2d9c11da-9ad0-4b75-8369-74049c55dac7/data%20master/3c9ef348c4704fe4b8fb68206e320ff5)
-- [Mengelola Secretary Mapping](https://docs.oficioo.id/Categories/2d9c11da-9ad0-4b75-8369-74049c55dac7/it-admins#!/Posts/2d9c11da-9ad0-4b75-8369-74049c55dac7/data-master/693e7952cb94420197d0da3fae6a5773 "Klik Link Ini Untuk Mengelola Tempat")
-- [Mengelola Tempat]()
+- [Mengelola Secretary Mapping](https://docs.oficioo.id/Categories/2d9c11da-9ad0-4b75-8369-74049c55dac7/pepc_it_admin#!/Posts/2d9c11da-9ad0-4b75-8369-74049c55dac7/data%20master/955bdc25d79e4ca8af3c11bfda117788)
+- [Mengelola Tempat](https://docs.oficioo.id/Categories/2d9c11da-9ad0-4b75-8369-74049c55dac7/pepc_it_admin#!/Posts/2d9c11da-9ad0-4b75-8369-74049c55dac7/data%20master/526bf04e056642238c1cdd6cb4d58e46)
 
 ### **Konfigurasi**
 
