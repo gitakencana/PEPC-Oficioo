@@ -16,7 +16,7 @@
 
 Pada tab informasi *Preview* SP3S, ditampilkan *preview* SP3S yang sudah dibuat. *Preview* SP3S disesuaikan dengan template berdasarkan jenis surat
 
-![gambar](SC_SP3S/SP26.png)
+![gambar](SC_SP3S/CR08.png)
 
 #### **Detail SP3S**
 

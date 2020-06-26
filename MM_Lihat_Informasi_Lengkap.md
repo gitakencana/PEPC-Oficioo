@@ -16,7 +16,7 @@ User dapat melihat informasi lengkap memorandum termasuk *preview* memorandum, d
 
 Pada tab Informasi *Preview* memorandum, ditampilkan *preview* memorandum yang sudah dibuat. *Preview* memorandum disesuaikan dengan template berdasarkan jenis surat
 
-![gambar](SC_Memorandum/MM31.png)
+![gambar](SC_Memorandum/CR01.png)
 
 #### Detail Memorandum
 

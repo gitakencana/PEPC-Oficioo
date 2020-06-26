@@ -16,7 +16,7 @@
 
 Pada tab informasi *Preview* fax keluar, ditampilkan *preview* fax keluar yang sudah dibuat. *Preview* fax keluar disesuaikan dengan template berdasarkan jenis surat.
 
-![gambar](SC_FaxKeluar/FK31.png)
+![gambar](SC_FaxKeluar/CR08.png)
 
 #### **Detail Fax Keluar**
 

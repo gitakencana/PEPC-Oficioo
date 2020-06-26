@@ -16,7 +16,7 @@
 
 Pada tab informasi *Preview* SPPTH, ditampilkan *preview* SPPTH yang sudah dibuat. *Preview* SPPTH disesuaikan dengan template berdasarkan jenis surat.
 
-![gambar](SC_SPPTH/TH26.png)
+![gambar](SC_SPPTH/CR08.png)
 
 #### **Detail SPPTH**
 

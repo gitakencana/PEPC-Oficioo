@@ -32,7 +32,7 @@ Langkah - langkah untuk menyimpan SPPTH adalah sebagai berikut.
 
 2. Sistem akan menampilkan tampilan *preview* SPPTH dalam bentuk Word yang dapat di edit. Untuk melakukan *editing* terhadap isi surat klik **Ubah Isi** kemudian sistem akan menampilkan *pop up* konfirmasi **Ubah Word Desktop** atau **Ubah Online**
 
-![gambar](SC_SPPTH/TH06.png)
+![gambar](SC_SPPTH/CR01.png)
 
 #### **[Edit] Word Desktop**
 
@@ -40,11 +40,11 @@ Langkah - langkah untuk mengubah isi SPPTH melalui Word Desktop adalah sebagai b
 
 1. Klik **Ubah di Word** untuk mengubah melalui aplikasi Microsoft Word
 
-![gambar](SC_SPPTH/TH07.png)
+![gambar](SC_SPPTH/CR02.png)
 
 2. Lakukan perubahan pada isi surat. Klik **Close** pada aplikasi dan isi surat akan otomatis tersimpan
 
-![gambar](SC_SPPTH/TH08.png)
+![gambar](SC_SPPTH/CR03.png)
 
 #### **[Edit] Ubah Online**
 
@@ -52,15 +52,15 @@ Langkah - langkah untuk mengubah isi SPPTH secara online adalah sebagai berikut.
 
 1. Klik **Ubah Online** untuk mengubah isi surat secara online
 
-![gambar](SC_SPPTH/TH09.png)
+![gambar](SC_SPPTH/CR04.png)
 
 2. Lakukan perubahan pada isi surat. Klik **Close** pada aplikasi
 
-![gambar](SC_SPPTH/TH10.png)
+![gambar](SC_SPPTH/CR05.png)
 
 3. Isi surat akan otomatis tersimpan. Jika surat akan disimpan sebagai draft, maka klik **Tutup.**
 
-![gambar](SC_SPPTH/TH11.png)
+![gambar](SC_SPPTH/CR06.png)
 
 4. Surat yang sudah selesai diubah maka akan tersimpan di menu “**Draft - SPPTH**"
 
@@ -70,6 +70,6 @@ Langkah - langkah untuk mengirim SPPTH adalah sebagai berikut.
 
 1. Pada tampilan *preview* SPPTH, klik **Kirim** untuk mengirim SPPTH ke *approver*
 
-![gambar](SC_SPPTH/TH12.png)
+![gambar](SC_SPPTH/CR07.png)
 
 2. Sistem menyimpan perubahan dan SPPTH akan tersimpan di menu “**Outbox - SPPTH**”

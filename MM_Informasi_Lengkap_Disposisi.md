@@ -2,9 +2,9 @@
 
 **Role yang sesuai**
 
--	Approver
--	Reviewer
--	Member User (Pekerja)
+-	*Approver*
+-	*Reviewer*
+-	*Member User* (Pekerja)
 
 *User* dapat melihat informasi lengkap disposisi memorandum pada detail disposisi. Langkah - langkah untuk melihat informasi disposisi memorandum adalah sebagai berikut
 
@@ -16,7 +16,7 @@
 
 Pada tab **Preview Surat** memorandum, ditampilkan preview memorandum yang sudah dibuat. Preview memorandum disesuaikan dengan template berdasarkan jenis surat
 
-![gambar](SC_Memorandum/MM70.png)
+![gambar](SC_Memorandum/CR09.png)
 
 ####	Preview Lembar Penerus
 
