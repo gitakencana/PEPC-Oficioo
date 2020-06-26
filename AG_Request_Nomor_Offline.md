@@ -10,7 +10,7 @@ Permintaan nomor offline digunakan untuk *request* pemrosesan nomor dokumen seca
 
 ![gambar](SC_AgendaKendali/AG17.png)
 
-2. Klik button “+” untuk melakukan *request* nomor offline
+2. Klik button "+” untuk melakukan *request* nomor offline
 
 ![gambar](SC_AgendaKendali/AG18.png)
 

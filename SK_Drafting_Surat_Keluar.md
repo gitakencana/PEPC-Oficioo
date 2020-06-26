@@ -22,7 +22,7 @@ Langkah - langkah untuk melakukan *drafting* surat keluar adalah sebagai berikut
 
 ![gambar](SC_Surat_Keluar/SK20.png)
 
-4. Lakukan perubahan pada *form*. Klik **Simpan** untuk menyimpan perubahan pada *form* surat keluar. Surat yang disimpan akan tersimpan di menu **“Draft - Surat Keluar”**
+4. Lakukan perubahan pada *form*. Klik **Simpan** untuk menyimpan perubahan pada *form* surat keluar. Surat yang disimpan akan tersimpan di menu **"Draft - Surat Keluar”**
 
 ![gambar](SC_Surat_Keluar/SK21.png)
 
@@ -62,4 +62,4 @@ Langkah - langkah untuk mengubah isi surat keluar secara *online* adalah sebagai
 
 ![gambar](SC_Surat_Keluar/SK28.png)
 
-4. Surat yang sudah selesai diubah maka akan tersimpan di menu **“Draft - Surat Keluar”**
+4. Surat yang sudah selesai diubah maka akan tersimpan di menu **"Draft - Surat Keluar”**

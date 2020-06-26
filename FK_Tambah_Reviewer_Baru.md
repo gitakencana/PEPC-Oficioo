@@ -14,7 +14,7 @@
 
 ![gambar](SC_FaxKeluar/FK48.png)
 
-3. Klik tombol **Add Reviewer** dan pilih pejabat yang akan melakukan review dengan meng-klik tombol “+” pada field **Add Reviewer**
+3. Klik tombol **Add Reviewer** dan pilih pejabat yang akan melakukan review dengan meng-klik tombol "+” pada field **Add Reviewer**
 
 ![gambar](SC_FaxKeluar/FK49.png)
 
@@ -22,6 +22,6 @@
 
 ![gambar](SC_FaxKeluar/FK50.png)
 
-5. Pilih **Send** untuk mengirimkan kepada pejabat/reviewer yang dituju dan fax keluar akan tersimpan di menu **“Outbox - Fax Keluar”**. Untuk pejabat/reviewer baru akan menerima fax keluar di menu **“Inbox - Fax Keluar”**
+5. Pilih **Send** untuk mengirimkan kepada pejabat/reviewer yang dituju dan fax keluar akan tersimpan di menu **"Outbox - Fax Keluar”**. Untuk pejabat/reviewer baru akan menerima fax keluar di menu **"Inbox - Fax Keluar”**
 
 ![gambar](SC_FaxKeluar/FK51.png)

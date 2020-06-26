@@ -65,7 +65,7 @@ Langkah - langkah untuk mengubah isi fax keluar secara *online* adalah sebagai b
 
 ![gambar](SC_FaxKeluar/CR06.png)
 
-4. Surat yang sudah selesai diubah maka akan tersimpan di menu **“Draft - Fax Keluar”**
+4. Surat yang sudah selesai diubah maka akan tersimpan di menu **"Draft - Fax Keluar”**
 
 #### **Kirim Fax Keluar**
 

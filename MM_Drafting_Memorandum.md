@@ -20,7 +20,7 @@ User dapat melakukan *drafting* memorandum pada aplikasi eCorr. *Drafting* memor
 
 ![gambar](SC_Memorandum/MM20.png)
 
-4. Lakukan perubahan pada *form*. Klik **Simpan** untuk menyimpan perubahan pada *form* memorandum. Surat yang disimpan akan tersimpan di menu **“Draft - Memorandum”**
+4. Lakukan perubahan pada *form*. Klik **Simpan** untuk menyimpan perubahan pada *form* memorandum. Surat yang disimpan akan tersimpan di menu **"Draft - Memorandum”**
 
 ![gambar](SC_Memorandum/MM21.png)
 
@@ -61,7 +61,7 @@ Langkah - langkah untuk mengubah isi memorandum secara online adalah sebagai ber
 
 ![gambar](SC_Memorandum/CR07.png)
 
-4. Surat yang sudah selesai diubah maka akan tersimpan di menu **“Draft - Memorandum”**
+4. Surat yang sudah selesai diubah maka akan tersimpan di menu **"Draft - Memorandum”**
 
 #### Kirim Memorandum
 

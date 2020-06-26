@@ -15,7 +15,7 @@ Konseptor dapat menambah surat keluar pada aplikasi eCorr. Langkah - langkah unt
 
 ![gambar](SC_Surat_Keluar/SK02.png)
 
-2. Pilih jenis surat **“Surat Keluar”**
+2. Pilih jenis surat **"Surat Keluar”**
 
 ![gambar](SC_Surat_Keluar/SK03.png)
 
@@ -65,7 +65,7 @@ Langkah - langkah untuk mengubah isi surat keluar secara *online* adalah sebagai
 
 ![gambar](SC_Surat_Keluar/SK12.png)
 
-4. Surat yang sudah selesai diubah maka akan tersimpan di menu **“Draft - Surat Keluar”**
+4. Surat yang sudah selesai diubah maka akan tersimpan di menu **"Draft - Surat Keluar”**
 
 #### Kirim Surat Keluar
 
@@ -75,4 +75,4 @@ Langkah - langkah untuk mengirim surat keluar adalah sebagai berikut
 
 ![gambar](SC_Surat_Keluar/SK13.png)
 
-2. Sistem menyimpan perubahan dan surat keluar akan tersimpan di menu **“Outbox - Surat Keluar”**
+2. Sistem menyimpan perubahan dan surat keluar akan tersimpan di menu **"Outbox - Surat Keluar”**

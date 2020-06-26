@@ -18,4 +18,4 @@
 
 ![gambar](SC_FaxKeluar/FK54.png)
 
-4. Sistem menyimpan perubahan dan nomor fax keluar akan ter-*generate* sesuai dengan nomor sementara pada detail. Fax keluar yang sudah diseyujui akan tersimpan di menu **“Outbox - Fax Keluar”** pengirim sedangkan fax keluar akan tersimpan di menu **“Inbox - Fax Keluar”** penerima.
+4. Sistem menyimpan perubahan dan nomor fax keluar akan ter-*generate* sesuai dengan nomor sementara pada detail. Fax keluar yang sudah diseyujui akan tersimpan di menu **"Outbox - Fax Keluar”** pengirim sedangkan fax keluar akan tersimpan di menu **"Inbox - Fax Keluar”** penerima.

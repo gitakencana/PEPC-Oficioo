@@ -20,7 +20,7 @@
 
 ![gambar](SC_FaxKeluar/FK20.png)
 
-4. Lakukan perubahan pada *form*. Klik **Simpan** untuk menyimpan perubahan pada *form* fax keluar. Surat yang disimpan akan tersimpan di menu **“Draft - Fax Keluar”**
+4. Lakukan perubahan pada *form*. Klik **Simpan** untuk menyimpan perubahan pada *form* fax keluar. Surat yang disimpan akan tersimpan di menu **"Draft - Fax Keluar”**
 
 ![gambar](SC_FaxKeluar/FK21.png)
 
@@ -60,7 +60,7 @@ Langkah - langkah untuk mengubah isi fax keluar secara *online* adalah sebagai b
 
 ![gambar](SC_FaxKeluar/CR06.png)
 
-4. Surat yang sudah selesai diubah maka akan tersimpan di menu **“Draft - Fax keluar”**
+4. Surat yang sudah selesai diubah maka akan tersimpan di menu **"Draft - Fax keluar”**
 
 
 #### **Kirim Fax Keluar**
@@ -71,5 +71,5 @@ Langkah - langkah untuk mengirim fax keluar adalah sebagai berikut
 
 ![gambar](SC_FaxKeluar/CR07.png)
 
-2. Sistem menyimpan perubahan dan fax keluar akan tersimpan di menu **“Outbox - Fax keluar”**
+2. Sistem menyimpan perubahan dan fax keluar akan tersimpan di menu **"Outbox - Fax keluar”**
 

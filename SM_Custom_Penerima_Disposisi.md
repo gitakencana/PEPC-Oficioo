@@ -18,7 +18,7 @@
 
 ![gambar](SC_SuratMasuk/SM34.png)
 
-4.    Sistem menampilkan form disposisi. Klik icon “+” pada field **Diteruskan Kepada.** Isikan informasi disposisi dan perintah untuk masing-masing penerima disposisi.
+4.    Sistem menampilkan form disposisi. Klik icon "+” pada field **Diteruskan Kepada.** Isikan informasi disposisi dan perintah untuk masing-masing penerima disposisi.
 
 ![gambar](SC_SuratMasuk/SM35.png)
 

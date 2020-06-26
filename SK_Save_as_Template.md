@@ -15,7 +15,7 @@
 
 ![gambar](SC_Surat_Keluar/SK14.png)
 
-2. Surat keluar yang disimpan menjadi *template* akan tersimpan di menu **“Draft - Surat Keluar”**. Untuk melanjutkan *template* yang sudah dibuat *user* dapat memilih menu **“Draft - Surat Keluar”** kemudian pilih *template* yang akan digunakan
+2. Surat keluar yang disimpan menjadi *template* akan tersimpan di menu **"Draft - Surat Keluar”**. Untuk melanjutkan *template* yang sudah dibuat *user* dapat memilih menu **"Draft - Surat Keluar”** kemudian pilih *template* yang akan digunakan
 
 ![gambar](SC_Surat_Keluar/SK15.png)
 
@@ -27,4 +27,4 @@
 
 ![gambar](SC_Surat_Keluar/SK17.png)
 
-5. Lakukan perubahan pada surat, klik **Simpan** untuk menyimpan perubahan dan surat akan tersimpan di menu **“Draft - Surat Keluar”** sebagai draft atau klik **Send** untuk mengirimkan ke pejabat tujuan dan tersimpan di menu **“Outbox - Surat Keluar”**.
+5. Lakukan perubahan pada surat, klik **Simpan** untuk menyimpan perubahan dan surat akan tersimpan di menu **"Draft - Surat Keluar”** sebagai draft atau klik **Send** untuk mengirimkan ke pejabat tujuan dan tersimpan di menu **"Outbox - Surat Keluar”**.

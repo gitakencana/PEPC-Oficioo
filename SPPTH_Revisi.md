@@ -22,7 +22,7 @@
 
 ![gambar](SC_SPPTH/TH38.png)
 
-5. Lakukan perubahan pada *form*. Klik **Simpan** untuk menyimpan perubahan pada *form* SPPTH. Surat yang disimpan akan tersimpan di menu “**Draft - SPPTH**"
+5. Lakukan perubahan pada *form*. Klik **Simpan** untuk menyimpan perubahan pada *form* SPPTH. Surat yang disimpan akan tersimpan di menu "**Draft - SPPTH**"
 
 ![gambar](SC_SPPTH/TH39.png)
 

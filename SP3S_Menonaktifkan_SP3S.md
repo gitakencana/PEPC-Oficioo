@@ -15,5 +15,5 @@ SP3S yang masih berlaku akan non-aktif secara otomatis apabila sudah habis masa 
 
 ![gambar](SC_SP3S/SP49.png)
 
-3. SP3S yang sudah tidak aktif akan tersimpan di menu **“Outbox - SP3S”** approver. Untuk pejabat PJS dan pejabat yang meninggalkan tempat, surat akan tersimpan di menu **“Inbox - SP3S”**
+3. SP3S yang sudah tidak aktif akan tersimpan di menu **"Outbox - SP3S”** approver. Untuk pejabat PJS dan pejabat yang meninggalkan tempat, surat akan tersimpan di menu **"Inbox - SP3S”**
 

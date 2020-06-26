@@ -15,7 +15,7 @@
 
 ![gambar](SC_FaxKeluar/FK14.png)
 
-2. Fax keluar yang disimpan menjadi *template* akan tersimpan di menu **“Draft - Fax Keluar”**. Untuk melanjutkan *template* yang sudah dibuat *user* dapat memilih menu **“Draft - Keluar”** kemudian pilih *template* yang akan digunakan
+2. Fax keluar yang disimpan menjadi *template* akan tersimpan di menu **"Draft - Fax Keluar”**. Untuk melanjutkan *template* yang sudah dibuat *user* dapat memilih menu **"Draft - Keluar”** kemudian pilih *template* yang akan digunakan
 
 ![gambar](SC_FaxKeluar/FK15.png)
 
@@ -27,4 +27,4 @@
 
 ![gambar](SC_FaxKeluar/FK17.png)
 
-5. Lakukan perubahan pada fax, klik **Simpan** untuk menyimpan perubahan dan fax keluar akan tersimpan di menu **“Draft - Fax Keluar”** sebagai draft atau klik **Send** untuk mengirimkan ke pejabat tujuan dan tersimpan di menu **“Outbox - Fax Keluar”**.
+5. Lakukan perubahan pada fax, klik **Simpan** untuk menyimpan perubahan dan fax keluar akan tersimpan di menu **"Draft - Fax Keluar”** sebagai draft atau klik **Send** untuk mengirimkan ke pejabat tujuan dan tersimpan di menu **"Outbox - Fax Keluar”**.

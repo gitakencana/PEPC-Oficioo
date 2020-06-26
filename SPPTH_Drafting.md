@@ -18,7 +18,7 @@
 
 ![gambar](SC_SPPTH/TH15.png)
 
-4. Lakukan perubahan pada *form*. Klik **Simpan** untuk menyimpan perubahan pada *form* SPPTH. Surat yang disimpan akan tersimpan di menu “**Draft - SPPTH**"
+4. Lakukan perubahan pada *form*. Klik **Simpan** untuk menyimpan perubahan pada *form* SPPTH. Surat yang disimpan akan tersimpan di menu "**Draft - SPPTH**"
 
 ![gambar](SC_SPPTH/TH16.png)
 
@@ -58,7 +58,7 @@ Langkah - langkah untuk mengubah isi SPPTH secara online adalah sebagai berikut.
 
 ![gambar](SC_SPPTH/CR06.png)
 
-4. Surat yang sudah selesai diubah maka akan tersimpan di menu “**Draft - SPPTH”**
+4. Surat yang sudah selesai diubah maka akan tersimpan di menu "**Draft - SPPTH”**
 
 #### **Kirim / Setujui SPPTH**
 
@@ -68,4 +68,4 @@ Langkah - langkah untuk mengirim SPPTH adalah sebagai berikut.
 
 ![gambar](SC_SPPTH/CR07.png)
 
-2. Sistem menyimpan perubahan dan SPPTH akan tersimpan di menu “**Outbox - SPPTH**”
+2. Sistem menyimpan perubahan dan SPPTH akan tersimpan di menu "**Outbox - SPPTH**”

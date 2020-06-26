@@ -14,7 +14,7 @@
 
 ![gambar](SC_Memorandum/MM48.png)
 
-3. Klik tombol **Add Reviewer** dan pilih pejabat yang akan melakukan review dengan meng-klik tombol “+” pada field **Add Reviewer**
+3. Klik tombol **Add Reviewer** dan pilih pejabat yang akan melakukan review dengan meng-klik tombol "+” pada field **Add Reviewer**
 
 ![gambar](SC_Memorandum/MM49.png)
 
@@ -22,6 +22,6 @@
 
 ![gambar](SC_Memorandum/MM50.png)
 
-5. Pilih **Send** untuk mengirimkan kepada pejabat/reviewer yang dituju dan memorandum akan tersimpan di menu **“Outbox - Memorandum”**. Untuk pejabat/reviewer baru akan menerima memorandum di menu **“Inbox - Memorandum”**
+5. Pilih **Send** untuk mengirimkan kepada pejabat/reviewer yang dituju dan memorandum akan tersimpan di menu **"Outbox - Memorandum”**. Untuk pejabat/reviewer baru akan menerima memorandum di menu **"Inbox - Memorandum”**
 
 ![gambar](SC_Memorandum/MM51.png)
