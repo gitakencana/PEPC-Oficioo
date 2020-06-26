@@ -15,7 +15,7 @@ User dapat menyimpan memorandum sebagai *template*. *Template* ini digunakan jik
 
 ![gambar](SC_Memorandum/MM14.png)
 
-2. Memorandum yang disimpan menjadi *template* akan tersimpan di menu **"Draft - Memorandum”**. Untuk melanjutkan *template* yang sudah dibuat *user* dapat memilih menu **"Draft - Memorandum”** kemudian pilih *template* yang akan digunakan
+2. Memorandum yang disimpan menjadi *template* akan tersimpan di menu **"Draft - Memorandum"**. Untuk melanjutkan *template* yang sudah dibuat *user* dapat memilih menu **"Draft - Memorandum"** kemudian pilih *template* yang akan digunakan
 
 ![gambar](SC_Memorandum/MM15.png)
 
@@ -27,4 +27,4 @@ User dapat menyimpan memorandum sebagai *template*. *Template* ini digunakan jik
 
 ![gambar](SC_Memorandum/MM17.png)
 
-5. Lakukan perubahan pada surat, klik **Simpan** untuk menyimpan perubahan dan memorandum akan tersimpan di menu **"Draft - Memorandum”** sebagai draft atau klik **Send** untuk mengirimkan ke pejabat tujuan dan tersimpan di menu **"Outbox - Memorandum”**.
+5. Lakukan perubahan pada surat, klik **Simpan** untuk menyimpan perubahan dan memorandum akan tersimpan di menu **"Draft - Memorandum"** sebagai draft atau klik **Send** untuk mengirimkan ke pejabat tujuan dan tersimpan di menu **"Outbox - Memorandum"**.

@@ -15,7 +15,7 @@ Konseptor dapat menambah memorandum pada aplikasi eCorr. Langkah - langkah untuk
 
 ![gambar](SC_Memorandum/MM02.png)
 
-2. Pilih jenis surat **"Memorandum”**
+2. Pilih jenis surat **"Memorandum"**
 
 ![gambar](SC_Memorandum/MM03.png)
 
@@ -64,7 +64,7 @@ Langkah - langkah untuk mengubah isi memorandum secara online adalah sebagai ber
 
 ![gambar](SC_Memorandum/CR07.png)
 
-4. Surat yang sudah selesai diubah maka akan tersimpan di menu **"Draft - Memorandum”**
+4. Surat yang sudah selesai diubah maka akan tersimpan di menu **"Draft - Memorandum"**
 
 #### Kirim Memorandum
 
@@ -74,4 +74,4 @@ Langkah - langkah untuk mengirim memorandum adalah sebagai berikut
 
 ![gambar](SC_Memorandum/CR08.png)
 
-2. Sistem menyimpan perubahan dan memorandum akan tersimpan di menu **"Outbox - Memorandum”**
+2. Sistem menyimpan perubahan dan memorandum akan tersimpan di menu **"Outbox - Memorandum"**

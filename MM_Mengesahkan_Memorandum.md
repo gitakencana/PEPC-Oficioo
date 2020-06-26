@@ -18,4 +18,4 @@
 
 ![gambar](SC_Memorandum/MM54.png)
 
-4. Sistem menyimpan perubahan dan nomor memorandum akan ter-*generate* sesuai dengan nomor sementara pada detail. Memorandum yang sudah diseyujui akan tersimpan di menu **"Outbox - Memorandum”** pengirim sedangkan memorandum akan tersimpan di menu **"Inbox - Memorandum”** penerima
+4. Sistem menyimpan perubahan dan nomor memorandum akan ter-*generate* sesuai dengan nomor sementara pada detail. Memorandum yang sudah diseyujui akan tersimpan di menu **"Outbox - Memorandum"** pengirim sedangkan memorandum akan tersimpan di menu **"Inbox - Memorandum"** penerima

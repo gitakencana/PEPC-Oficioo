@@ -14,7 +14,7 @@ SPPTH dibuat oleh konseptor/sekretaris Direksi yang akan meninggalkan tempat, se
 
 ![gambar](SC_SPPTH/TH02.png)
 
-2. Pilih jenis surat "**SPPTH**”
+2. Pilih jenis surat "**SPPTH**"
 
 ![gambar](SC_SPPTH/TH03.png)
 
@@ -72,4 +72,4 @@ Langkah - langkah untuk mengirim SPPTH adalah sebagai berikut.
 
 ![gambar](SC_SPPTH/CR07.png)
 
-2. Sistem menyimpan perubahan dan SPPTH akan tersimpan di menu "**Outbox - SPPTH**”
+2. Sistem menyimpan perubahan dan SPPTH akan tersimpan di menu "**Outbox - SPPTH**"

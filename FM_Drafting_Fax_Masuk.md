@@ -18,6 +18,6 @@ Sekretaris dapat melakukan _drafting_ fax masuk pada aplikasi eCorr. _Drafting_ 
 
 ![gambar](SC_FaxMasuk/FM08.png)
 
-4.	  Lakukan perubahan pada _form_. Klik **Send** untuk mengirim fax masuk ke pejabat tujuan. Surat yang terkirim akan tersimpan di menu "**Outbox - Fax Masuk”**
+4.	  Lakukan perubahan pada _form_. Klik **Send** untuk mengirim fax masuk ke pejabat tujuan. Surat yang terkirim akan tersimpan di menu "**Outbox - Fax Masuk"**
 
 ![gambar](SC_FaxMasuk/FM09.png)

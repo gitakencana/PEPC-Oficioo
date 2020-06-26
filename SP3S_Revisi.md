@@ -22,7 +22,7 @@
 
 ![gambar](SC_SP3S/SP38.png)
 
-5. Lakukan perubahan pada *form*. Klik **Simpan** untuk menyimpan perubahan pada *form* SP3S. Surat yang disimpan akan tersimpan di menu **"Draft - SP3S”**
+5. Lakukan perubahan pada *form*. Klik **Simpan** untuk menyimpan perubahan pada *form* SP3S. Surat yang disimpan akan tersimpan di menu **"Draft - SP3S"**
 
 ![gambar](SC_SP3S/SP39.png)
 
@@ -62,7 +62,7 @@ Langkah - langkah untuk mengubah isi SP3S secara *online* adalah sebagai berikut
 
 ![gambar](SC_SP3S/CR06.png)
 
-4. Surat yang sudah selesai diubah maka akan tersimpan di menu **"Draft - SP3S”**
+4. Surat yang sudah selesai diubah maka akan tersimpan di menu **"Draft - SP3S"**
 
 #### **Kirim / Setujui SP3S**
 
@@ -72,4 +72,4 @@ Langkah - langkah untuk menyetujui SP3S adalah sebagai berikut.
 
 ![gambar](SC_SP3S/CR07.png)
 
-2. Sistem menyimpan perubahan dan SP3S akan tersimpan di menu **"Outbox - SP3S**”
+2. Sistem menyimpan perubahan dan SP3S akan tersimpan di menu **"Outbox - SP3S**"

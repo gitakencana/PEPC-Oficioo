@@ -18,7 +18,7 @@
 
 ![gambar](SC_Memorandum/MM65.png)
 
-4. Sistem menampilkan form disposisi. Klik icon "+” pada field **Diteruskan Kepada**. Isikan informasi disposisi dan perintah untuk masing-masing penerima disposisi.
+4. Sistem menampilkan form disposisi. Klik icon "+" pada field **Diteruskan Kepada**. Isikan informasi disposisi dan perintah untuk masing-masing penerima disposisi.
 
 ![gambar](SC_Memorandum/MM66.png)
 

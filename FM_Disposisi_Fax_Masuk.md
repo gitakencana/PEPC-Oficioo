@@ -5,7 +5,7 @@
 - *Approver User*
 - *Reviewer User*
 
-*User* menerima fax masuk baru di menu **"Inbox - Fax Masuk”**. Fax masuk dapat didisposisikan kepada pejabat yang dipilih atau pejabat yang ada dibawahnya. Disposisi fax masuk dapat dilakukan dengan dua cara yaitu melalui menu **Inbox** jika fax masuk yang diterima merupakan surat masuk yang ditujukan langsung dari sekretaris ke pejabat pemilik KBOnya atau melalui menu **Disposisi** jika fax masuk sudah dilakukan tindak lanjut oleh pejabat pemilik KBO dan pemilik KBO akan mendisposisikan ke pejabat selanjutnya atau pejabat yang ada dibawahnya. Langkah - langkah untuk mendisposisikan fax masuk adalah sebagai berikut:
+*User* menerima fax masuk baru di menu **"Inbox - Fax Masuk"**. Fax masuk dapat didisposisikan kepada pejabat yang dipilih atau pejabat yang ada dibawahnya. Disposisi fax masuk dapat dilakukan dengan dua cara yaitu melalui menu **Inbox** jika fax masuk yang diterima merupakan surat masuk yang ditujukan langsung dari sekretaris ke pejabat pemilik KBOnya atau melalui menu **Disposisi** jika fax masuk sudah dilakukan tindak lanjut oleh pejabat pemilik KBO dan pemilik KBO akan mendisposisikan ke pejabat selanjutnya atau pejabat yang ada dibawahnya. Langkah - langkah untuk mendisposisikan fax masuk adalah sebagai berikut:
 
 #### **Disposisi melalui Menu Inbox**
 
@@ -25,7 +25,7 @@
 
 ![gambar](SC_FaxMasuk/FM27.png)
 
-5. Klik **Simpan** untuk menyimpan draft disposisi surat masuk dan surat masuk akan tersimpan di menu **"Draft - Surat masuk”**. Klik **Send** untuk mengirim disposisi ketujuan dan disposisi surat masuk akan tersimpan di menu **"Outbox - Disposisi”**.
+5. Klik **Simpan** untuk menyimpan draft disposisi surat masuk dan surat masuk akan tersimpan di menu **"Draft - Surat masuk"**. Klik **Send** untuk mengirim disposisi ketujuan dan disposisi surat masuk akan tersimpan di menu **"Outbox - Disposisi"**.
 
 #### **Disposisi melalui Menu Disposisi**
 
@@ -45,5 +45,5 @@
 
 ![gambar](SC_FaxMasuk/FM31.png)
 
-5. Klik Simpan untuk menyimpan draft disposisi fax masuk dan fax masuk akan tersimpan di menu "Draft - Surat masuk”. Klik Send untuk mengirim disposisi ketujuan dan disposisi surat masuk akan tersimpan di menu "Outbox - Disposisi”.
+5. Klik Simpan untuk menyimpan draft disposisi fax masuk dan fax masuk akan tersimpan di menu "Draft - Surat masuk". Klik Send untuk mengirim disposisi ketujuan dan disposisi surat masuk akan tersimpan di menu "Outbox - Disposisi".
 

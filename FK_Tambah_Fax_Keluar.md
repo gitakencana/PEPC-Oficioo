@@ -15,7 +15,7 @@ Pekerja (staff) dapat menambah fax keluar pada aplikasi eCorr. Langkah - langkah
 
 ![gambar](SC_FaxKeluar/FK02.png)
 
-2. Pilih jenis surat **”Fax Keluar”**
+2. Pilih jenis surat **"Fax Keluar"**
 
 ![gambar](SC_FaxKeluar/FK03.png)
 
@@ -65,7 +65,7 @@ Langkah - langkah untuk mengubah isi fax keluar secara *online* adalah sebagai b
 
 ![gambar](SC_FaxKeluar/CR06.png)
 
-4. Surat yang sudah selesai diubah maka akan tersimpan di menu **"Draft - Fax Keluar”**
+4. Surat yang sudah selesai diubah maka akan tersimpan di menu **"Draft - Fax Keluar"**
 
 #### **Kirim Fax Keluar**
 
@@ -75,4 +75,4 @@ Langkah - langkah untuk mengirim fax keluar adalah sebagai berikut
 
 ![gambar](SC_FaxKeluar/CR07.png)
 
-2. Sistem menyimpan perubahan dan fax keluar akan tersimpan di menu **”Outbox - Fax keluar”**
+2. Sistem menyimpan perubahan dan fax keluar akan tersimpan di menu **"Outbox - Fax keluar"**
