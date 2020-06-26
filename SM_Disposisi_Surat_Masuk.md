@@ -26,7 +26,7 @@ _User_ menerima surat masuk baru di menu "**Inbox - Surat Masuk**" atau menu "**
 
 ![gambar](SC_SuratMasuk/SM27.png)
 
-5.    Klik **Simpan** untuk menyimpan draft disposisi surat masuk dan surat masuk akan tersimpan di menu "**Draft - Surat masuk**". Klik **Send** untuk mengirim disposisi ketujuan dan disposisi surat masuk akan tersimpan di menu "**Outbox – Disposisi**".
+5.    Klik **Simpan** untuk menyimpan draft disposisi surat masuk dan surat masuk akan tersimpan di menu "**Draft - Surat masuk**". Klik **Send** untuk mengirim disposisi ketujuan dan disposisi surat masuk akan tersimpan di menu "**Outbox - Disposisi**".
 
 
 ####   **Disposisi melalui Menu Disposisi**
@@ -47,4 +47,4 @@ _User_ menerima surat masuk baru di menu "**Inbox - Surat Masuk**" atau menu "**
 
 ![gambar](SC_SuratMasuk/SM31.png)
 
-5.    Klik **Simpan** untuk menyimpan draft disposisi surat masuk dan surat masuk akan tersimpan di menu "**Draft - Surat masuk**". Klik **Send** untuk mengirim disposisi ketujuan dan disposisi surat masuk akan tersimpan di menu "**Outbox – Disposisi**".
+5.    Klik **Simpan** untuk menyimpan draft disposisi surat masuk dan surat masuk akan tersimpan di menu "**Draft - Surat masuk**". Klik **Send** untuk mengirim disposisi ketujuan dan disposisi surat masuk akan tersimpan di menu "**Outbox - Disposisi**".

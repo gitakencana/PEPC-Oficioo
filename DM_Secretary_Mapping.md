@@ -11,7 +11,7 @@ Admin eCorr dapat mengelola pemetaan sekretaris kepada pejabat pemilik KBO berda
 - Mengubah _mapping_ sekretaris
 - Menghapus _mapping_ sekretaris
 
-Langkah – langkah untuk pengelolaan _mapping_ sekretaris adalah sebagai berikut:
+Langkah - langkah untuk pengelolaan _mapping_ sekretaris adalah sebagai berikut:
 
 #### Mencari Daftar Sekretaris
 
