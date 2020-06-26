@@ -71,4 +71,4 @@ Langkah - langkah untuk mengirim memorandum adalah sebagai berikut
 
 ![gambar](SC_Memorandum/CR08.png)
 
-2. Sistem menyimpan perubahan dan memorandum akan tersimpan di menu **“Outbox - Memorandum”**
+2. Sistem menyimpan perubahan dan memorandum akan tersimpan di menu **"Outbox - Memorandum"**
