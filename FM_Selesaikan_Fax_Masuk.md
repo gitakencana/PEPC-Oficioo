@@ -25,4 +25,3 @@
 ![gambar](SC_FaxMasuk/FM22.png)
 
 5. Sistem menyimpan perubahan dan informasi selesai disposisi akan tersimpan di detail disposisi.
-
