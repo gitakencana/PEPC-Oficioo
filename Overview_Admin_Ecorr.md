@@ -1,13 +1,10 @@
-Pada bagian ini akan dijelaskan mengenai role sebagai Admin E-Correspondence pada aplikasi eCorr yang mengelola menu data master.Admin ECorr dapat melakukan pengelolaan antara lain yaitu pengelolaan klasifikasi surat, prioritas surat, kategori surat dan lain lain yang digunakan dalam penginputan form surat. 
-Berikut adalah role Admin E-Correspondence dalam aplikasi eCorr antara lain yaitu:
-
 ### **Data Master** 
 
-Pada modul ini mendukung pengelolaan data master yang digunakan pada aplikasi eCorr meliputi data master menu akses, grup 
+Pada modul ini mendukung pengelolaan data master yang dilakukan oleh seorang admin eCorr meliputi data master menu akses, grup 
 akses, kode simpan, klasifikasi surat, prioritas surat, kategori surat, _task list_ SP3S, lokasi, mengelola secretary mapping
 dan mendukung custom template surat. 
 
-Hal-hal yang dapat dilakukan oleh Admin E-Corr dalam mengelola data master antara lain: 
+Hal-hal yang dapat dilakukan oleh Admin eCorr dalam mengelola data master antara lain: 
 
 - [Mengelola Akses Menu](https://docs.oficioo.id/Categories/2d9c11da-9ad0-4b75-8369-74049c55dac7/admin-ecorr#!/Posts/2d9c11da-9ad0-4b75-8369-74049c55dac7/data-master/4e8c2fadcd744c219a29ef6f094775a8)
 - [Mengelola Grup Akses](https://docs.oficioo.id/Categories/2d9c11da-9ad0-4b75-8369-74049c55dac7/admin-ecorr#!/Posts/2d9c11da-9ad0-4b75-8369-74049c55dac7/data-master/6fc823a1f9124724a2bb1c917193e039)
