@@ -1,7 +1,7 @@
 Pada bagian ini akan dijelaskan mengenai role sebagai sekretaris dalam aplikasi eCorr yang mengelola menu surat masuk, fax masuk dan agenda kendali. Sekretaris adalah pekerja yang diberikan wewenang untuk melakukan pekerjaan misalnya pencatatan surat masuk, mengelola agenda kendali, mengelola dokumen yang masuk pada atasan pejabatnya dan lain-lain. 
 Berikut adalah role sekretaris dalam aplikasi eCorr antara lain yaitu:
 
-###**Surat Masuk**
+### **Surat Masuk**
 
 Pada modul ini mendukung proses input surat masuk oleh sekretaris berdasarkan berkas fisik yang diterima dan kemudian dikirimkan ke pejabat penerima surat. Pejabat tersebut dapat meneruskan surat dengan mendisposisikan surat kepada pejabat tujuan lainnya ataupun pejabat yang ada di bawahnya.
 Hal-hal yang dapat dilakukan oleh Sekretaris dalam mengelola surat masuk antara lain:
@@ -17,7 +17,7 @@ Hal-hal yang dapat dilakukan oleh Sekretaris dalam mengelola surat masuk antara 
 - [Menyelesaikan Disposisi Surat Masuk]()
 - [Mengirim Tanggapan Disposisi Surat Masuk]()
 
-###**Fax Masuk**
+### **Fax Masuk**
 
 Pada modul ini mendukung proses penambahan fax masuk oleh sekretaris atau pekerja yang ditunjuk dari pejabat yang bersangkutan. Fax masuk yang sudah diinputkan akan dikirimkan kepada pejabat pemilik KBO dan dapat dilakukan disposisi kepada pejabat yang ada di bawahnya.
 Hal-hal yang dapat dilakukan oleh Sekretaris dalam mengelola fax masuk antara lain:
@@ -33,7 +33,7 @@ Hal-hal yang dapat dilakukan oleh Sekretaris dalam mengelola fax masuk antara la
 - [Mengirim Tanggapan Disposisi Fax Masuk]()
 
 
-###**Document Control** 
+### **Document Control** 
 
 Pada modul ini mendukung pengelolaan dokumen masuk, dokumen keluar dan disposisi oleh sekretaris sesuai dengan pejabat pemilik KBO. Pada modul agenda kendali juga terdapat fitur untuk meminta nomor offline (request offline number) oleh sekretaris dan akan ditindaklanjuti oleh admin eCorr.
 Hal-hal yang dapat dilakukan oleh Sekretaris dalam mengelola document control antara lain:
