@@ -5,7 +5,7 @@
 - Sekretaris
 - Admin Approver Offline Number
 
-*User* dapat menambahkan komentar pada field komentar yang disediakan pada detail permintaan nomor offline. Langkah - langkah untuk menambahkan komentar adalah sebagai berikut
+*User* dapat menambahkan komentar pada field komentar yang disediakan pada detail pengajuan nomor offline. Langkah - langkah untuk menambahkan komentar adalah sebagai berikut
 
 1. Klik menu **Document Control** dan pilih tab **Request Nomor Offline**
 

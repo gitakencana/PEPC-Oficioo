@@ -1,10 +1,10 @@
-### **Menolak Permintaan Nomor Offline**
+### **Menolak pengajuan Nomor Offline**
 
 **Role yang sesuai**
 
 - Admin Approver Offline Number
 
-Admin Approver Offline Number dapat melakukan tindak lanjut terhadap permintaan nomor offline dengan menolak / *reject* permintaan  yang diajukan oleh sekretaris. Langkah - langkah untuk menolak permintaan nomor adalah sebagai berikut
+Admin Approver Offline Number dapat melakukan tindak lanjut terhadap pengajuan nomor offline dengan menolak / *reject* pengajuan  yang diajukan oleh sekretaris. Langkah - langkah untuk menolak pengajuan nomor adalah sebagai berikut
 
 1. Klik menu **Document Control** dan pilih tab **Approval List**
 

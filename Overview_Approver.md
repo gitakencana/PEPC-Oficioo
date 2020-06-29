@@ -39,7 +39,7 @@ Hal-hal yang dapat dilakukan oleh *approver* dalam mengelola surat keluar antara
 
 ### **Memorandum**
 
-Pada modul ini mendukung proses pembuatan konsep memorandum yang akan disetujui oleh reviewer/approver. Setelah memorandum disetujui maka akan diberikan nomor memorandum secara otomatis dan dikirimkan ke pejabat pemilik Kode Bagian Organisasi (KBO). Pemilik KBO tersebut akan mendapatkan memorandum masuk pada menu “Inbox” dan dapat mendisposisikan memorandum kepada pejabat yang dipilih atau pejabat yang ada di bawahnya sampai dengan level staf. 
+Pada modul ini mendukung proses pembuatan konsep memorandum yang akan disetujui oleh reviewer/approver. Setelah memorandum disetujui maka akan diberikan nomor memorandum secara otomatis dan dikirimkan ke pejabat pemilik Kode Bagian Organisasi (KBO). Pemilik KBO tersebut akan mendapatkan memorandum masuk pada menu "Inbox" dan dapat mendisposisikan memorandum kepada pejabat yang dipilih atau pejabat yang ada di bawahnya sampai dengan level staf. 
 Hal-hal yang dapat dilakukan oleh *approver* dalam mengelola memorandum antara lain:
 
 - [Melihat Daftar Memorandum]()

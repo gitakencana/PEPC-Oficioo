@@ -3,9 +3,8 @@
 **Role yang sesuai**
 
 - Sekretaris
-- Pemilik KBO
 
-_User_ dapat melihat daftar dokumen keluar yang mencatatkan seluruh dokumen yang keluar kepada jabatan atasan sekretaris. Langkah - langkah untuk melihat daftar dokumen keluar adalah sebagai berikut
+Sekretaris dapat melihat daftar dokumen keluar yang mencatatkan seluruh dokumen yang keluar kepada jabatan atasan sekretaris. Langkah - langkah untuk melihat daftar dokumen keluar adalah sebagai berikut
 
 1. Klik menu **Document Control** dan pilih submenu **Dokumen Keluar**
 

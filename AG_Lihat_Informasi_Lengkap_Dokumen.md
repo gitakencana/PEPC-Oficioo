@@ -3,9 +3,8 @@
 **Role yang sesuai**
 
 - Sekretaris
-- Pemilik KBO
 
-_User_ dapat melihat detail surat baik surat yang berklasifikasi "Biasa", "Terbatas", "Rahasia" dan "Sangat Rahasia". Sedangkan sebagai *role* sekretaris hanya dapat melihat detail surat yang berklasifikasi "Biasa" dan "Terbatas". Informasi yang ditampikan detail surat antara lain yaitu
+Sekretaris dapat melihat detail surat baik surat yang berklasifikasi "Biasa", "Terbatas", "Rahasia" dan "Sangat Rahasia". Sedangkan sebagai *role* sekretaris hanya dapat melihat detail surat yang berklasifikasi "Biasa" dan "Terbatas". Informasi yang ditampikan detail surat antara lain yaitu
 
 Langkah - langkah untuk melakukan melihat detail dokumen masuk, dokumen keluar dan dokumen disposisi adalah sebagai berikut.
 

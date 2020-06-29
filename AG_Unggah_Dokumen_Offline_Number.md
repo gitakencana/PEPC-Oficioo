@@ -4,7 +4,7 @@
 
 - Sekretaris
 
-Sekretaris dapat mengunggah dokumen permasing-masing nomor offline yang sudah di-*request*. Sekretaris yang sudah meunggah dokumen nomor offline dapat melakukan permintaan nomor kembali maksimal 5 kali _request_. Langkah-langkah untuk mengunggah dokumen nomor offline adalah sebagai berikut
+Sekretaris dapat mengunggah dokumen permasing-masing nomor offline yang sudah di-*request*. Sekretaris yang sudah meunggah dokumen nomor offline dapat melakukan pengajuan nomor kembali maksimal 5 kali _request_. Langkah-langkah untuk mengunggah dokumen nomor offline adalah sebagai berikut
 
 1. Klik menu **Document Control** dan pilih tab **Request Nomor Offline**
 

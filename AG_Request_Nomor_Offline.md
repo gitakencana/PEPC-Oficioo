@@ -1,10 +1,8 @@
-### **Melakukan Request Nomor Offline**
-
 **Role yang sesuai**
 
 - Sekretaris
 
-Permintaan nomor offline digunakan untuk *request* pemrosesan nomor dokumen secara offline. Sekretaris yang mengajukan nomor offline akan disetujui oleh admin approval nomor offline. Langkah - langkah untuk melakukan *request* nomor offline adalah sebagai berikut
+Pengajuan nomor offline digunakan untuk *request* pemrosesan nomor dokumen secara offline. Sekretaris yang mengajukan nomor offline akan disetujui oleh admin approval nomor offline. Langkah - langkah untuk melakukan *request* nomor offline adalah sebagai berikut
 
 1. Klik menu **Document Control** dan pilih tab **Request Offline Number**
 
