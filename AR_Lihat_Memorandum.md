@@ -1,8 +1,8 @@
-### **Melihat Dokumen Memorandum**
-
 **Role yang sesuai**
 
-- Semua *user*
+- *Approver User*
+- *Reviewer User*
+- *Member User*
 
 *User* dapat melihat dokumen memorandum pada menu Archive. Langkah - langkah untuk melihat dokumen memorandum adalah sebagai berikut
 

@@ -2,7 +2,9 @@
 
 **Role yang sesuai**
 
-- Semua _user_
+- *Approver User*
+- *Reviewer User*
+- *Member User* (Pekerja) 
 
  _User_ dapat melihat daftar surat masuk yang ditujukan pada sekretaris tersebut. Langkah-langkah untuk melihat daftar surat masuk adalah sebagai berikut:
 

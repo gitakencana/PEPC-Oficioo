@@ -1,5 +1,3 @@
-#### **3.2.8.1. Melihat Daftar SPPTH**
-
 **Role yang sesuai**
 
 - *Approver User*

@@ -1,5 +1,3 @@
-### **Menonaktifkan SPPTH**
-
 **Role yang sesuai**
 
 - *Approver User* (Pejabat Pth)

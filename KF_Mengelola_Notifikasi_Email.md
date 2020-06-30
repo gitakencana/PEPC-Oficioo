@@ -1,5 +1,3 @@
-### Mengelola Notifikasi Email
-
 **Role yang sesuai**
 
 - IT Admin

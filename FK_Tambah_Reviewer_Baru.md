@@ -1,10 +1,8 @@
-### **Menambah Reviewer Baru Fax Keluar**
-
 **Role yang sesuai**
 
 - *Approver User*
 
-*User* dapat menambahkan reviewer kemudian fax keluar akan diteruskan ke reviewer baru. Langkah - langkah untuk menambah reviewer fax keluar adalah sebagai berikut
+*Approver User* dapat menambahkan reviewer kemudian fax keluar akan diteruskan ke reviewer baru. Langkah - langkah untuk menambah reviewer fax keluar adalah sebagai berikut
 
 1. Klik menu **Inbox** dan pilih tab **Fax Keluar**
 

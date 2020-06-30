@@ -1,5 +1,3 @@
-###	**Mengelola Task List SP3S**
-
 **Role yang sesuai**
 
 - Admin eCorr

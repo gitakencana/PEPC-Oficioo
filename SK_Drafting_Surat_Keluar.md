@@ -1,10 +1,8 @@
-### Melakukan Drafting Surat Keluar
-
 **Role yang sesuai**
 
-- Konseptor
-- *Approver*
-- *Reviewer*
+- *Approver User*
+- *Reviewer User*
+- *Member User* (Pekerja)
 
 *User* dapat melakukan *drafting* surat keluar pada aplikasi eCorr. *Drafting* surat keluar dilakukan jika *user* akan meneruskan dan melakukan perubahan pada surat keluar yang sudah disimpan pada menu **Draft**.
 

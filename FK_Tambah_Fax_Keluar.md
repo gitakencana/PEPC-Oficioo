@@ -1,5 +1,3 @@
-### Menambah Fax Keluar**
-
 **Ditujukan kepada**
 
 - *Approver User*
@@ -9,7 +7,7 @@
 
 - *Member User* (Pekerja)
 
-Pekerja (staff) dapat menambah fax keluar pada aplikasi eCorr. Langkah - langkah untuk menambah fax keluar adalah sebagai berikut
+*Member User* dapat menambah fax keluar pada aplikasi eCorr. Langkah - langkah untuk menambah fax keluar adalah sebagai berikut
 
 1. Klik menu **New Correspondence**
 

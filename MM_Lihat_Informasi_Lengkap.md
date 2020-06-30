@@ -1,12 +1,10 @@
-### Melihat Informasi Lengkap Memorandum
-
 **Role yang sesuai**
 
-- Konseptor
-- *Approver*
-- *Reviewer*
+- *Approver User*
+- *Reviewer User*
+- *Member User* (Pekerja)
 
-User dapat melihat informasi lengkap memorandum termasuk *preview* memorandum, detail memorandum, *tracking* memorandum dan *history* memorandum. Langkah - langkah untuk melihat informasi memorandum adalah sebagai berikut
+_User_ dapat melihat informasi lengkap memorandum termasuk *preview* memorandum, detail memorandum, *tracking* memorandum dan *history* memorandum. Langkah - langkah untuk melihat informasi memorandum adalah sebagai berikut
 
 1. Klik menu **Inbox/Draft/Outbox** dan pilih tab **Memorandum**. Pilih salah satu memorandum yang akan dilihat informasinya
 

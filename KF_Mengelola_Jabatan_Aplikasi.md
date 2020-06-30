@@ -1,5 +1,3 @@
-### **Mengelola Jabatan pada Aplikasi**
-
 **Role yang sesuai**
 
 - IT Admin
@@ -8,7 +6,6 @@ IT Admin dapat mengelola jabatan pada aplikasi eCorr yang sudah didaftarkan pada
 
 - Melihat daftar jabatan pada aplikasi
 - Mencari daftar jabatan pada aplikasi
-
 
 #### **Melihat Daftar Jabatan pada Aplikasi**
 

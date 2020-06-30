@@ -2,7 +2,7 @@
 
 **Role yang sesuai**
 
-- Pemilik KBO
+- *Approver User*
 
 Langkah-langkah untuk menolak surat masuk adalah sebagai berikut
 

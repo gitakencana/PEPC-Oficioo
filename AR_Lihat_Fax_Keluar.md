@@ -1,8 +1,9 @@
 ### **Melihat Dokumen Fax Masuk**
-
 **Role yang sesuai**
 
-- Semua *user*
+- *Approver User*
+- *Reviewer User*
+- *Member User*
 
 *User* dapat melihat dokumen fax masuk pada menu Archive. Langkah - langkah untuk melihat dokumen fax masuk adalah sebagai berikut:
 

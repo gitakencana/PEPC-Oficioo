@@ -1,9 +1,7 @@
-### Kembalikan Surat keluar ke Konseptor
-
 Role yang sesuai
 
-- *Reviewer*
-- *Approver*
+- *Approver User*
+- *Reviewer User*
 
 *User* dapat mengembalikan surat keluar ke konseptor jika hasil review belum / tidak sesuai. Langkah - langkah untuk mengembalikan surat keluar ke konseptor adalah sebagai berikut
 

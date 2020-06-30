@@ -1,8 +1,8 @@
-### **Melihat Informasi Lengkap Surat Masuk**
-
 **Role yang sesuai**
 
-- _User_
+- *Approver User*
+- *Reviewer User*
+- *Member User* (Pekerja)
 
 _User_ dapat melihat informasi lengkap surat masuk termasuk _preview_ surat masuk, detail surat masuk, _tracking_ surat masuk dan _history_ surat masuk. Langkah-langkah untuk melihat informasi surat masuk adalah sebagai berikut.
 

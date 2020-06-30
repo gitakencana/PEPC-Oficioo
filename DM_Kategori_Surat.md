@@ -1,5 +1,3 @@
-### **Mengelola Kategori Surat**
-
 **Role yang sesuai**
 
 - Admin eCorr

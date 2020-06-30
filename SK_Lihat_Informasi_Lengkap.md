@@ -1,10 +1,8 @@
-### Melihat Informasi Lengkap Surat Keluar
-
 **Role yang sesuai**
 
-- Konseptor
-- *Approver*
-- *Reviewer*
+- *Approver User*
+- *Reviewer User*
+- *Member User* (Pekerja)
 
 *User* dapat melihat informasi lengkap surat keluar termasuk *preview* surat keluar, detail surat keluar, *tracking* surat keluar dan *history* surat keluar. Langkah - langkah untuk melihat informasi surat keluar adalah sebagai berikut
 

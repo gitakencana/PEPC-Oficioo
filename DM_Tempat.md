@@ -1,5 +1,3 @@
-**Role yang sesuai**
-
 - Admin eCorr
 
 Admin eCorr dapat mengelola tempat/lokasi yang digunakan dalam penginputan form surat. Pengelolaan data master lokasi yang dilakukan admin eCorr antara lain yaitu:

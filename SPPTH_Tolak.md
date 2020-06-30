@@ -1,5 +1,3 @@
-### **Menolak SPPTH**
-
 **Role yang sesuai**
 
 - *Approver User*

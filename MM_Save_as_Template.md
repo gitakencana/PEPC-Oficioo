@@ -1,13 +1,11 @@
-### Save as Template Memorandum
-
 **Ditujukan kepada**
 
-- *Reviewer*
-- *Approver*
+- *Approver User*
+- *Reviewer User*
 
 **Role yang sesuai**
 
-- Konseptor
+- *Member User* (Pekerja)
 
 User dapat menyimpan memorandum sebagai *template*. *Template* ini digunakan jika sewaktu-waktu *user* akan melanjutkan memorandum yang sudah dibuat dan diubah kembali kemudian dikirimkan kepejabat tujuan tanpa harus mengisi *form* memorandum. Langkah - langkah untuk menyimpan memorandum sebagai *template* adalah sebagai berikut
 

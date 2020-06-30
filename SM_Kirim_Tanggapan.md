@@ -1,8 +1,7 @@
-###  	**Mengirim Tanggapan Disposisi Surat Masuk**
-
 **Role yang sesuai**
 
-- Pejabat / Staff / penerima disposisi
+- *Reviewer User*
+- *Member User* (Pekerja)
 
  _User_ dapat mengirim tanggapan disposisi surat masuk yang ditujukan untuk pejabat pengirim disposisi. Langkah-langkah untuk mengirim tanggapan disposisi surat masuk adalah sebagai berikut
 

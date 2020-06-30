@@ -1,10 +1,8 @@
-### **Menambah Surat Masuk**
-
 **Role yang sesuai**
 
-- User
+- Sekretaris
 
-_User_ dapat menambah surat masuk pada aplikasi eCorr. Langkah-langkah untuk menambah surat masuk adalah sebagai berikut.
+Sekretaris dapat menambah surat masuk pada aplikasi eCorr. Langkah-langkah untuk menambah surat masuk adalah sebagai berikut.
 
 1.	Klik menu **New Correspondence**
 

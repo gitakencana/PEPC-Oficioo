@@ -2,12 +2,12 @@
 
 **Ditujukan kepada**
 
-- *Reviewer*
-- *Approver*
+- *Approver User*
+- *Reviewer User*
 
 **Role yang sesuai**
 
-- *Member*
+- *Member User* (Pekerja)
 
 Konseptor dapat menambah surat keluar pada aplikasi eCorr. Langkah - langkah untuk menambah surat keluar adalah sebagai berikut
 

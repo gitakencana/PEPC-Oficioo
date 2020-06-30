@@ -1,10 +1,8 @@
-### **Mengesahkan Nomor Fax Keluar**
-
 **Role yang sesuai**
 
 - *Approver User*
 
-*User* dapat mengesahkan fax keluar yang sudah dikirim dan direview oleh reviewer. Keluaran untuk tindak lanjut ini adalah untuk men-*generate* nomor fax keluar kemudian fax keluar dapat dikirimkan ke pejabat tujuan. Langkah - langkah untuk menambah reviewer fax keluar adalah sebagai berikut
+*Approver User* dapat mengesahkan fax keluar yang sudah dikirim dan direview oleh reviewer. Keluaran untuk tindak lanjut ini adalah untuk men-*generate* nomor fax keluar kemudian fax keluar dapat dikirimkan ke pejabat tujuan. Langkah - langkah untuk menambah reviewer fax keluar adalah sebagai berikut
 
 1. Klik menu **Inbox** dan pilih tab **Fax Keluar**
 

@@ -1,8 +1,7 @@
-### Mengesahkan Nomor Surat Keluar
-
 **Role yang sesuai**
 
-- *Approver*
+- *Approver User*
+- *Reviewer User*
 
 *User* dapat mengesahkan surat keluar yang sudah dikirim dan direview oleh reviewer. Keluaran untuk tindak lanjut ini adalah untuk men-*generate* nomor surat keluar kemudian surat keluar dapat dikirimkan ke pejabat tujuan. Langkah - langkah untuk menambah reviewer surat keluar adalah sebagai berikut
 

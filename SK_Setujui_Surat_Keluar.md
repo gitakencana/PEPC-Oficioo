@@ -1,8 +1,7 @@
-### Menyetujui Surat Keluar
-
 **Role yang sesuai**
 
-- *Reviewer*
+- *Approver User*
+- *Reviewer User*
 
 *User* dapat menyetujui surat keluar yang sudah dilakukan review dan surat keluar akan dikirimkan ke *reviewer* selanjutnya atau *approver*. Langkah - langkah untuk menyetujui surat keluar adalah sebagai berikut
 

@@ -2,8 +2,8 @@
 
 **Role yang sesuai**
 
-- *Reviewer*
-- *Approver*
+- *Reviewer User*
+- *Approver User*
 
 *User* dapat menolak memorandum yang akan dikembalikan ke konseptor jika hasil review memorandum belum / tidak sesuai. Langkah - langkah untuk menolak memorandum adalah sebagai berikut
 

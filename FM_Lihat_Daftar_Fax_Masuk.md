@@ -1,5 +1,3 @@
-### Melihat Daftar Fax Masuk**
-
 **Role yang sesuai**
 
 - *Approver User*

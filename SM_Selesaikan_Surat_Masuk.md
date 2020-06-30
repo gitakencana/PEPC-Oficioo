@@ -2,8 +2,9 @@
 
 **Role yang sesuai**
 
--  Pemilik KBO
--  Pejabat penerima disposisi
+- *Approver User*
+- *Reviewer User*
+- *Member User* (Pekerja) 
 
 _User_ dapat menyelesaikan surat masuk jika _user_ tidak akan melanjutkan untuk mendisposisikan surat masuk ke pejabat lain atau surat masuk selesai pada _user_ tersebut. Langkah-langkah untuk menyelesaikan surat masuk adalah sebagai berikut:
 

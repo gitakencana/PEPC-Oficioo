@@ -1,9 +1,7 @@
-### Kembalikan Surat keluar ke Sebelumnya
-
 **Role yang sesuai**
 
-- *Reviewer*
-- *Approver*
+- *Approver User*
+- *Reviewer User*
 
 *User* dapat mengembalikan surat keluar ke sebelumnya jika hasil review belum / tidak sesuai. Surat akan dikembalikan ke satu level *reviewer* sebelumnya atau ke konseptor (apabila hanya ada satu *reviewer*). Langkah - langkah untuk mengembalikan surat keluar ke sebelumnya adalah sebagai berikut
 

@@ -1,9 +1,7 @@
-### Kembalikan Memorandum ke Konseptor
-
 **Role yang sesuai**
 
-- *Reviewer*
-- *Approver*
+- *Approver User*
+- *Reviewer User*
 
 *User* dapat mengembalikan memorandum ke konseptor jika hasil review belum/tidak sesuai. Langkah - langkah untuk mengembalikan memorandum ke konseptor adalah sebagai berikut
 

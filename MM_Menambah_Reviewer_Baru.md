@@ -2,9 +2,9 @@
 
 **Role yang sesuai**
 
-- *Approver*
+- *Approver User*
 
-*User* dapat menambahkan reviewer kemudian memorandum akan diteruskan ke reviewer baru. Langkah - langkah untuk menambah reviewer memorandum adalah sebagai berikut
+*Approver User* dapat menambahkan reviewer kemudian memorandum akan diteruskan ke reviewer baru. Langkah - langkah untuk menambah reviewer memorandum adalah sebagai berikut
 
 1. Klik menu **Inbox** dan pilih tab **Memorandum**
 

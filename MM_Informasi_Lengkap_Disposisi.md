@@ -1,10 +1,8 @@
-### Melihat Informasi Lengkap Disposisi Memorandum
-
 **Role yang sesuai**
 
--	*Approver*
--	*Reviewer*
--	*Member User* (Pekerja)
+- *Approver User*
+- *Reviewer User*
+- *Member User* (Pekerja)
 
 *User* dapat melihat informasi lengkap disposisi memorandum pada detail disposisi. Langkah - langkah untuk melihat informasi disposisi memorandum adalah sebagai berikut
 

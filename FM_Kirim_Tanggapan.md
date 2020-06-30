@@ -1,5 +1,3 @@
-### **Mengirim Tanggapan Disposisi Fax Masuk**
-
 **Role yang sesuai**
 
 - *Approver User*

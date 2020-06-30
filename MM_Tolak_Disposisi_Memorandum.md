@@ -1,9 +1,7 @@
-### Menolak Disposisi Memorandum
-
 **Role yang sesuai**
 
--	Approver User
--	Reviewer User
+- *Approver User*
+- *Reviewer User*
 
 Langkah - langkah untuk menolak memorandum adalah sebagai berikut
 

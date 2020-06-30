@@ -1,5 +1,3 @@
-### **Melihat Informasi Lengkap SPPTH**
-
 **Role yang sesuai**
 
 - *Approver User*

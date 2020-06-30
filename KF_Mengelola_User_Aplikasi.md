@@ -1,13 +1,8 @@
-###  **Mengelola User pada Aplikasi**
-
 **Role yang sesuai**
-
 
 - IT Admin
 
-
 IT Admin dapat mengelola user pada aplikasi eCorr yang sudah didaftarkan pada sistem manajemen user. Informasi yang ditampilkan yaitu nama, alamat email dan no telepon. Pengelolaan user yang dilakukan oleh admin eCorr antara lain yaitu:
-
 
 - Melihat daftar user pada aplikasi
 - Mencari daftar user pada aplikasi

@@ -1,8 +1,8 @@
-### 	**Melihat Informasi Lengkap Disposisi Surat Masuk**
-
 **Role yang sesuai**
 
-- _User_
+- *Approver User*
+- *Reviewer User*
+- *Member User* (Pekerja) 
 
 _User_ dapat melihat informasi lengkap disposisi surat masuk pada detail disposisi. Langkah-langkah untuk melihat informasi disposisi surat masuk adalah sebagai berikut.
 

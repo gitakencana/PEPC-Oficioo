@@ -1,9 +1,8 @@
-### Mengirim Tanggapan Disposisi Memorandum
-
 **Role yang sesuai**
 
--	Reviewer
--	Member User (Pekerja)
+- *Approver User*
+- *Reviewer User*
+- *Member User* (Pekerja)
 
 *User* dapat mengirim tanggapan disposisi memorandum yang ditujukan untuk pejabat pengirim disposisi. Langkah-langkah untuk mengirim tanggapan disposisi memorandum adalah sebagai berikut
 

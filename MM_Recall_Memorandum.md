@@ -1,9 +1,7 @@
-### Melakukan Recall Disposisi Memorandum
-
 **Role yang sesuai**
 
--	Approver User
--	Reviewer User
+- *Approver User*
+- *Reviewer User*
 
 *User* dapat melakukan *recall* / tarik disposisi memorandum yang sudah dikirim kepada pejabat penerima disposisi. Memorandum yang sudah dikirim ke pejabat penerima disposisi akan tersimpan di menu **"Outbox Disposisi"**. Langkah - langkah untuk melakukan recall disposisi memorandum adalah sebagai berikut
 

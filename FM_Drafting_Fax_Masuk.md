@@ -1,5 +1,3 @@
-### **Melakukan Drafting Fax Masuk**
-
 **Role yang sesuai**
 
 - Sekretaris

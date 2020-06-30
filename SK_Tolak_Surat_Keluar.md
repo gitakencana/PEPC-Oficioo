@@ -1,9 +1,7 @@
-### Menolak Surat Keluar
-
 **Role yang sesuai**
 
-- *Reviewer*
-- *Approver*
+- *Approver User*
+- *Reviewer User*
 
 *User* dapat menolak surat keluar yang akan dikemnbalikan ke konseptor jika hasil review surat keluar belum / tidak sesuai. Langkah-langkah untuk menolak surat keluar adalah sebagai berikut
 

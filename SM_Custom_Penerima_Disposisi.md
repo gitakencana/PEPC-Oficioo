@@ -1,8 +1,7 @@
-###	**Melakukan Custom Disposisi**
-
 **Role yang sesuai**
 
-- Pejabat pendisposisi
+- *Approver User*
+- *Reviewer User*
 
  _User_ dapat melakukan _custom_ penerima disposisi terhadap pejabat penerima yang akan menerima perintah disposisi. Secara _default_ pejabat yang akan menerima disposisi adalah pejabat yang ada dibawahnya. Tetapi terdapat _case_ jika _user_ membutuhkan _custom_ penerima disposisi sehingga disediakan fitur untuk memilih pejabat selain pejabat yang ada dibawahnya. Langkah-langkah untuk melakukan _custom_ disposisi surat masuk adalah sebagai berikut:
 

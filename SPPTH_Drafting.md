@@ -1,5 +1,3 @@
-### **Melakukan Drafting SPPTH**
-
 **Role yang sesuai**
 
 - Sekretaris

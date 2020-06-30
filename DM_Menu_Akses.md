@@ -1,5 +1,3 @@
-### **Mengelola Menu Akses Menu**
-
 **Role yang sesuai**
 
 - Admin eCorr

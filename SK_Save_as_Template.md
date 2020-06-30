@@ -1,13 +1,11 @@
-### Save as Template Surat Keluar
-
 **Ditujukan kepada**
 
-- *Reviewer*
-- *Approver*
+- *Approver User*
+- *Reviewer User*
 
 **Role yang sesuai**
 
-- Konseptor
+- *Member User* (Pekerja)
 
 *User* dapat menyimpan surat sebagai *template*. *Template* ini digunakan jika sewaktu - waktu *user* akan melanjutkan surat keluar yang sudah dibuat dan diubah kembali kemudian dikirimkan kepejabat tujuan tanpa harus mengisi *form* surat keluar. Langkah - langkah untuk menyimpan surat keluar sebagai template adalah sebagai berikut
 

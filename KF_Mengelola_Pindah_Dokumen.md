@@ -1,5 +1,3 @@
-### **Mengelola Pindah Dokumen Antar Unit Kerja**
-
 **Role yang sesuai**
 
 - IT Admin

@@ -1,5 +1,3 @@
-### **Mengelola Kode Simpan**
-
 **Role yang sesuai**
 
 - Admin eCorr

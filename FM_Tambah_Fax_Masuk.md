@@ -1,5 +1,3 @@
-### **Menambah Fax Masuk**
-
 **Role yang sesuai**
 
 - Sekretaris

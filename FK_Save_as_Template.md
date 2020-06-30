@@ -1,5 +1,3 @@
-### **Save as Template Fax Keluar**
-
 **Ditujukan kepada**
 
 - *Approver User*
@@ -9,7 +7,7 @@
 
 - *Member User* (Pekerja)
 
-*User* dapat menyimpan fax keluar sebagai *template*. *Template* ini digunakan jika sewaktu-waktu *user* akan melanjutkan fax keluar yang sudah dibuat dan diubah kembali kemudian dikirimkan kepejabat tujuan tanpa harus mengisi *form* fax keluar. Langkah - langkah untuk menyimpan fax keluar sebagai *template* adalah sebagai berikut
+*Member User* dapat menyimpan fax keluar sebagai *template*. *Template* ini digunakan jika sewaktu-waktu *user* akan melanjutkan fax keluar yang sudah dibuat dan diubah kembali kemudian dikirimkan kepejabat tujuan tanpa harus mengisi *form* fax keluar. Langkah - langkah untuk menyimpan fax keluar sebagai *template* adalah sebagai berikut
 
 1. Isi *form* fax keluar dan Klik **Save as Template**
 

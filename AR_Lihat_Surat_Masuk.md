@@ -1,8 +1,8 @@
-### **Melihat Dokumen Surat Masuk**
-
 **Role yang sesuai**
 
-- Semua *user*
+- *Approver User*
+- *Reviewer User*
+- *Member User*
 
 *User* dapat melihat dokumen surat masuk pada menu Archive. Langkah - langkah untuk melihat dokumen surat masuk adalah sebagai berikut
 

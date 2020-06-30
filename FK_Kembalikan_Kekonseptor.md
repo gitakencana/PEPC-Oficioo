@@ -1,5 +1,3 @@
-### **Kembalikan Fax Keluar ke Konseptor**
-
 **Role yang sesuai**
 
 - *Approver User*

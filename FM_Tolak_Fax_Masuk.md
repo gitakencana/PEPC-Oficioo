@@ -1,5 +1,3 @@
-### **Menolak Fax Masuk**
-
 **Role yang sesuai**
 
 - *Approver User* (Pemilik KBO)

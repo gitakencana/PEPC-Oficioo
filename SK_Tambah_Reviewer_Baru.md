@@ -1,8 +1,6 @@
-### Menambah Reviewer Baru Surat Keluar
-
 **Role yang sesuai**
 
-- *Approver*
+- *Approver User*
 
 *User* dapat menambahkan reviewer kemudian surat keluar akan diteruskan ke reviewer baru. Langkah - langkah untuk menambah reviewer surat keluar adalah sebagai berikut
 

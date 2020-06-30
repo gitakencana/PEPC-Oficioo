@@ -1,10 +1,8 @@
-### **Melihat Daftar Surat Keluar**
-
 **Role yang sesuai**
 
-- *Member*
-- *Reviewer*
-- *Approver*
+- *Approver User*
+- *Reviewer User*
+- *Member User* (Pekerja)
 
 *User* dapat melihat daftar surat keluar pada pada menu **Inbox, Draft atau Outbox** pada masing - masing akun. Langkah - langkah untuk melihat daftar surat keluar adalah sebagai berikut
 

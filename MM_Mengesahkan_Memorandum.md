@@ -2,9 +2,9 @@
 
 **Role yang sesuai**
 
-- *Approver*
+- *Approver User*
 
-*User* dapat mengesahkan memorandum yang sudah dikirim dan direview oleh reviewer. Keluaran untuk tindak lanjut ini adalah untuk men-*generate* nomor memorandum kemudian memorandum dapat dikirimkan ke pejabat tujuan. Langkah - langkah untuk menambah reviewer memorandum adalah sebagai berikut
+*Approver User* dapat mengesahkan memorandum yang sudah dikirim dan direview oleh reviewer. Keluaran untuk tindak lanjut ini adalah untuk men-*generate* nomor memorandum kemudian memorandum dapat dikirimkan ke pejabat tujuan. Langkah - langkah untuk menambah reviewer memorandum adalah sebagai berikut
 
 1. Klik menu **Inbox** dan pilih tab **Memorandum**
 

@@ -1,10 +1,7 @@
-### Mendisposisikan Memorandum
-
 **Role yang sesuai**
 
-- Approver User (Pemilik KBO)
-- Reviewer User
-
+- *Approver User*
+- *Reviewer User*
 
 *User* menerima memorandum yang sudah dikirimkan pejabat internal Pertamina pada menu **"Inbox - Memorandum"**. Memorandum dapat didisposisikan kepada pejabat yang dipilih atau pejabat yang ada dibawahnya. Disposisi memorandum dapat dilakukan dengan dua cara yaitu melalui menu **Inbox** jika memorandum yang diterima merupakan memorandum yang ditujukan kepada tujuan pejabat internal Pertamina dan telah disetujui atau ditanda tangani oleh pejabat pengirim atau melalui menu **Disposisi** jika memorandum sudah dilakukan tindak lanjut oleh pejabat pemilik KBO dan pemilik KBO akan mendisposisikan ke pejabat selanjutnya atau pejabat yang ada dibawahnya. Langkah-langkah untuk mendisposisikan memorandum adalah sebagai berikut
 

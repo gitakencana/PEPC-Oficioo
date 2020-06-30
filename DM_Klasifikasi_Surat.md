@@ -1,5 +1,3 @@
-### **Mengelola Klasifikasi Surat**
-
 **Role yang sesuai**
 
 - Admin eCorr

@@ -1,10 +1,8 @@
-### Menyelesaikan Disposisi Memorandum
-
 **Role yang sesuai**
 
--	Approver
--	Reviewer
--	Member User (Pekerja)
+- *Approver User*
+- *Reviewer User*
+- *Member User* (Pekerja)
 
 *User* dapat menyelesaikan disposisi memorandum jika *user* tidak akan melanjutkan untuk mendisposisikan memorandum ke pejabat lain atau memorandum selesai pada *user* tersebut. Langkah-langkah untuk menyelesaikan memorandum adalah sebagai berikut
 

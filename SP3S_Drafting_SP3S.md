@@ -1,5 +1,3 @@
-#### **3.2.7.3. Melakukan Drafting SP3S**
-
 **Role yang sesuai**
 
 - Sekretaris

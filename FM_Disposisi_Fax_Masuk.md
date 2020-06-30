@@ -1,5 +1,3 @@
-### **Mendisposisikan Fax Masuk**
-
 **Role yang sesuai**
 
 - *Approver User*

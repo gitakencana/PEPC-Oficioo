@@ -1,5 +1,3 @@
-### **Menolak Fax Keluar**
-
 **Role yang sesuai**
 
 - *Approver User*
