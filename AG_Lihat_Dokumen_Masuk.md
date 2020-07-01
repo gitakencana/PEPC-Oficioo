@@ -1,12 +1,10 @@
-### **Melihat Daftar Dokumen Masuk**
-
 **Role yang sesuai**
 
 - Sekretaris
 
-Sekretaris dapat melihat daftar dokumen masuk yang mencatatkan seluruh dokumen yang masuk kepada jabatan atasan sekretaris. Langkah - langkah untuk melihat daftar dokumen masuk adalah sebagai berikut
+Sekretaris dapat melihat daftar dokumen masuk (Inbox) yang mencatatkan seluruh dokumen yang masuk kepada jabatan atasan sekretaris. Langkah – langkah untuk melihat daftar dokumen masuk (Inbox) adalah sebagai berikut.
 
-1. Klik menu **Document Control** dan pilih submenu **Dokumen Masuk**
+1. Klik menu **Document Control** dan pilih submenu **Document View - Inbox**
 
 ![gambar](SC_AgendaKendali/AG01.png)
 
